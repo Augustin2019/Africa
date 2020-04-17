@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="ie old-ie no-js" lang="fr"> <![endif]-->
+<!--[if IE 8]> <html class="ie ie8 old-ie no-js" lang="fr"> <![endif]-->
+<!--[if IE 9]> <html class="ie no-js" lang="fr"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>SAMY - Africa Restos - Cuisine Africaine</title>
+
+			<link rel="stylesheet" type="text/css" href="/css/screen.css?20191231" media="all" />
+
+			<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png ">
+			<link rel="manifest" href="/favicon/manifest.json">
+			<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+			<meta name="theme-color" content="#ffffff">
+
+
+			<script src="/js/libs/modernizr.js" async="async"></script>
+		<script type="text/javascript" src="/js/libs/require.js" data-main="/js/bootstrap.js" async="async" data-module="modules/common/bootstrap.home"></script>
+<meta name="description" content="SAMY est un restaurant et traiteur africain en ligne qui propose de nombreux plats comme le poulet Yassa, bissap, lakh, le poulet mafé ou le tieb poulet." />
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-105921923-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+	</head>
+	<body id="common-index-index" class="mdl-common ctrl-index act-index common-index">
+		<!--[if lt IE 9]>
+		<div id="ballot">
+			<div class="inner">
+				<div class="warning">
+					Attention !
+				</div>
+				<p>
+					<strong>Vous utilisez un navigateur obsolète</strong>
+					Pour une meilleure expérience sur ce site, utilisez un navigateur web moderne.
+				</p>
+				<ul>
+					<li class="firefox"><a href="http://www.firefox.com" target="_blank">Firefox</a></li>
+					<li class="chrome"><a href="http://www.google.com/chrome" target="_blank">Chrome</a></li>
+					<li class="safari"><a href="http://www.apple.com/safari/download/" target="_blank">Safari</a></li>
+					<li class="opera"><a href="http://www.opera.com/" target="_blank">Opéra</a></li>
+					<li class="ie"><a href="http://windows.microsoft.com/fr-FR/internet-explorer/products/ie/home" target="_blank">Internet Explorer 9</a></li>
+				</ul>
+			</div>
+		</div>
+		<![endif]-->
+
+		<div class="relative-layout">
+			<div class="nav-scroll" id="nav_scrool">
+				<ul class="nav row">
+					<li class="cell grid-half"><a href="/restaurant-africain">Retourner à la carte</a></li>
+					<li class="cell grid-half"><a href="https://www.africa-restos.fr/files/media/mamarice-menu-14-low-impression.pdf">Télécharger la carte</a></li>
+				 </ul>
+			</div>
+		</div>
+
+		<div class="panel-nav-wrapper">
+			<div class="wrapper">
+				<div class="flot">
+					<a href="/files/media/mamarice-menu-14-low-impression.pdf" class="btn-catalog-fixe">
+						<div class="inbox-btn-catalog-fixe">
+							Télécharger la carte
+						</div>
+					</a>
+				</div>
+
+									<div class="cookie" data-cookiecnil="container">
+						<div class="layout mob-layout">
+							<div class="inside">
+								<div class="content">
+									<p>
+										<strong>SAMY utilise des cookies.</strong>
+									</p>
+									<p class="min-txt">
+										En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies pour vous proposer des services et offres adaptés.<br>
+										<a href="/page-mentions-legales" class="link link-arrow">
+											<span>En savoir plus</span>
+										</a>
+									</p>
+								</div>
+								<div class="cookie-position-close">
+									<button type="button" class="btn-close animate" data-cookiecnil="close">
+										<span class="txt palm-hide">Fermer</span>
+										<i class="i-close icon position-icone-close"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				
+				<div class="header">
+					<div class="layout">
+						<div class="grids grids-large">
+
+							<div class="grid-1-5 lap-1-4 mob-full">
+								<div class="header-left">
+									<div class="position-logo">
+										<a class="logo" href="/">
+											<img src="/images/logo.png" title="SAMY" alt="Restaurant africain propose cuisine africaine">
+										</a>
+										<div class="baseline center lap-hide">
+											<p>Comme à la maison !</p>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="grid-4-5 lap-3-4 mob-full">
+
+								<div class="mob-layout">
+									<div class="header-info lap-hide">
+										<div class="grids grids-middle">
+											<div class="grid-1-4">
+												<div class="block-halal">
+													<div class="media">
+														<div class="media-item-rev">
+															<i class="i-halal-grey"></i>
+														</div>
+														<div class="media-body">
+															<p class="txt">SAMY vous propose<br>
+																des spécialités africaines</p>
+														</div>
+													</div>
+												</div>
+											</div>
+
+											<div class="grid-1-4">
+												<div class="block-phone">
+													<div class="media">
+														<div class="media-item">
+															<i class="i-tel"></i>
+														</div>
+														<div class="media-body">
+															<p class="txt big">06 95 68 37 89</p>
+														</div>
+													</div>
+												</div>
+											</div>
+
+											<div class="grid-2-4 right">
+												<ul class="nav nav-alt">
+													<li>
+														<a href="https://www.africa-restos.fr/page-entreprise">L'entreprise</a>
+													</li>
+													<li>
+														<a href="https://www.africa-restos.fr/page-recrutement">Recrutement</a>
+													</li>
+													<li>
+														<a href="https://www.africa-restos.fr/contact">Nous contacter</a>
+													</li>
+												</ul>
+											</div>
+
+										</div>
+									</div>
+
+
+									<div class="header-info desk-hide lap-show">
+										<div class="grids grids-large grids-middle">
+
+											<div class="grid-3-9 mob-hide">
+												<div class="baseline center">
+													<p>Comme à la maison !</p>
+												</div>
+											</div>
+
+											<div class="grid-4-9 mob-1-2 phab-full">
+												<div class="block-halal">
+													<div class="media">
+														<div class="media-item">
+															<i class="i-halal-grey"></i>
+														</div>
+														<div class="media-body">
+															<p class="txt">SAMY vous propose<br>
+																des spécialités africaines</p>
+														</div>
+													</div>
+												</div>
+											</div>
+
+											<div class="grid-2-9 mob-1-2 phab-full">
+												<hr class="divider desk-hide lap-hide phab-show">
+												<div class="block-phone flright mob-flnone">
+													<div class="media">
+														<div class="media-item">
+															<i class="i-tel"></i>
+														</div>
+														<div class="media-body">
+															<p class="txt big ">06 95 68 37 89</p>
+														</div>
+													</div>
+												</div>
+											</div>
+
+										</div>
+									</div>
+								</div>
+
+								<div class="navbar">
+									<ul class="row level-1">
+										<li class="cell home-nav phab-hide">
+											<a href="/">
+												<i class="i-home icon"></i>
+												<span class="txt desk-hide">Accueil</span>
+											</a>
+										</li>
+										<li class="cell has-subnav js-no-close">
+											<a class="js-trigger-nav js-no-close" href="/restaurant-africain">
+												<i class="i-carte icon js-no-close"></i>
+												<span class="txt js-no-close">La carte</span>
+											</a>
+
+											<div class="subnav panel-nav js-no-close">
+												<div class="mobnav-header desk-hide lap-show">
+													<div class="lacarte">
+														<i class="i-carte icon"></i>
+														<span class="txt">La carte</span>
+													</div>
+													<div class="btn js-trigger-nav">
+														<i class="i-mobback icon"></i>
+														<span class="txt">Retour</span>
+													</div>
+												</div>
+												<div class="inside">
+													<div class="desk-hide lap-show">
+														<div class="center">
+															<img src="/images/btn_commander.png" alt="Commander en ligne">
+														</div>
+													</div>
+													<ul class="grids grids-large level-2">
+														<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link first" href="/restaurant-africain">
+																	<div class="txt">
+																		<span>Accéder à la carte</span>
+																		<i class="i-arrow icon flright"></i>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/thieb">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thieb-rouge-boeuf.jpg"
+																					 title="Thieb - Cuisine africaine "
+																					 alt="Plat africain Thieb ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Thieb</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/mafe">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/mafe-poulet-texte-poulet.jpg"
+																					 title="Mafé - Cuisine africaine "
+																					 alt="Plat africain Mafé ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Mafé</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/yassa">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/yassa-poulet.jpg"
+																					 title="Yassa - Cuisine africaine"
+																					 alt="Plat africain Yassa ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Yassa</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/thiou">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thiou-beuf.jpg"
+																					 title="Thiou - Cuisine africaine "
+																					 alt="Plat africain Thiou ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Thiou</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/saka-Saka">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/saka-saka.jpg"
+																					 title="Saka-Saka "
+																					 alt="Plat africain ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Saka-Saka</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/pastels">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/pastels-boeuf-texte-boeuf.jpg"
+																					 title="Pastels - Cuisine africaine "
+																					 alt="Plat africain Pastels ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Pastels</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/poulet-dg">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/plat-poulet-sauces.jpg"
+																					 title="Poulet DG - Cuisine africaine "
+																					 alt="Plat africain Poulet DG ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Poulet DG</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/desserts">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thiakiry.jpg"
+																					 title="Desserts - Cuisine africaine "
+																					 alt="Desserts au restaurant africain ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Desserts</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/boissons">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/jus-bissap.jpg"
+																					 title="Boissons - Cuisine africaine "
+																					 alt="Boissons au restaurant africain ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Boissons</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																											<li class="grid-1-3 lap-full nav-carte">
+															<div class="menu-link-item">
+																<a class="link" href="/restaurant-africain/supplements">
+																	<div class="media">
+																		<div class="media-item">
+																			<div class="illus">
+																																							<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/supp-allocos.jpg"
+																					 title="Suppléments - Cuisine africaine "
+																					 alt="Suppléments au restaurant africain ">
+																																						</div>
+																		</div>
+																		<div class="media-body">
+																			<div class="txt">
+																				<span>Suppléments</span>
+																				<i class="i-arrow icon flright"></i>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</li>
+																										</ul>
+												</div>
+											</div>
+										</li>
+										<li class="cell">
+											<a href="https://www.africa-restos.fr/page-infos-pratiques">
+												<i class="i-news icon menu-news-icon"></i>
+												<span class="txt">Infos <span class="lap-hide">pratiques</span></span>
+											</a>
+										</li>
+										<li class="cell">
+													<a class="no-separator" href="/compte/connexion">
+		<i class="i-account icon"></i>
+		<span class="txt">Compte<!-- S'identifier --></span>
+	</a>
+	
+										</li>
+										<li class="cell special-nav" data-cart="widget">
+											<a class="no-separator nav-widget-cart" href="/panier">
+	<i class="i-cart icon">
+		<span class="nb-products">0</span>
+	</i>
+	<span class="txt">Panier</span>
+</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div><!--/header-->
+
+
+				<div class="container">
+
+					
+					<div class="content">
+						<div class="layout">
+
+	<div class="grids grids-large">
+		<div class="grid-1-5 lap-hide">
+			<div class="aside-left">
+				<div>
+	
+	<div class="aside-nav-header center">
+		<img src="/images/btn_commander.png" alt="Commander en ligne">
+	</div>
+
+	<ul class="aside-nav">
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/thieb">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thieb-rouge-boeuf.jpg"
+							 alt="Plat africain Thieb "
+							 title="Thieb - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Thieb</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/mafe">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/mafe-poulet-texte-poulet.jpg"
+							 alt="Plat africain Mafé "
+							 title="Mafé - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Mafé</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/yassa">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/yassa-poulet.jpg"
+							 alt="Plat africain Yassa "
+							 title="Yassa - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Yassa</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/thiou">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thiou-beuf.jpg"
+							 alt="Plat africain Thiou "
+							 title="Thiou - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Thiou</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/saka-Saka">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/saka-saka.jpg"
+							 alt="Plat africain Saka-Saka "
+							 title="Saka-Saka - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Saka-Saka</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/pastels">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/pastels-boeuf-texte-boeuf.jpg"
+							 alt="Plat africain Pastels "
+							 title="Pastels - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Pastels</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/poulet-dg">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/plat-poulet-sauces.jpg"
+							 alt="Plat africain Poulet DG "
+							 title="Poulet DG - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Poulet DG</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/desserts">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/thiakiry.jpg"
+							 alt="Desserts au restaurant africain "
+							 title="Desserts - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Desserts</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/boissons">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/jus-bissap.jpg"
+							 alt="Boissons au restaurant africain "
+							 title="Boissons - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Boissons</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+			<li class="menu-link-item">
+			<a class="link menu-link-item-wrap" href="/restaurant-africain/supplements">
+					
+									<div class="illus">
+						<img src="/files/thumbs/catalog/categories/images/catalog-aside-nav/supp-allocos.jpg"
+							 alt="Suppléments au restaurant africain "
+							 title="Suppléments - Cuisine africaine " />
+					</div>
+								<div class="txt">
+					<span>Suppléments</span>
+					<i class="i-arrow icon position-icon-menu"></i>
+				</div>
+			</a>
+		</li>
+		</ul>
+
+	<a href="https://www.africa-restos.fr/files/media/mamarice-menu-14-low-impression.pdf" class="download">
+		<div class="download-inbox">
+			<span class="download-inbox__wrap">
+				<span class="lato-medium">Télécharger la carte</span>
+				<i class="i-ingredients position-icone"></i>
+			</span>
+		</div>
+	</a>
+
+</div>
+			</div><!--/aside-left-->
+		</div>
+		<div class="grid-4-5 lap-full">
+					<!-- homeslider -->
+			<div class="homeslider phab-hide">
+				<ul class="slides bx-slides" data-slider="container">
+									<li class="slide bx-slide">
+
+													<a href="https://www.africa-restos.fr/restaurant-africain">
+															<img src="/files/thumbs/sliders/slides/homeslider/slide-03.jpg"
+									 alt="Cuisine africain avec Jus de Bissap chez restaurant "
+									 title="Cuisine africaine - Jus de Bissap - Restaurant africain SAMY">
+								
+														</a>
+							
+
+					</li>
+								</ul>
+			</div>
+		
+			<!-- block -->
+			<div class="block">
+				<h1 class="ttl-1"><span>Dégustez nos <span class="phab-break">spécialités africaines !</span></span></h1>
+			</div>
+
+			<!-- block -->
+			<div class="block riced">
+				<div class="grids grids-large">
+					<div class="grid-1-3 phab-full">
+						<div class="block-formule type-1 center">
+							<div class="inside">
+								<i class="i-checkbox-1 flleft"></i>
+								<i class="i-bag icon"></i>
+								<div class="center">
+									<span class="ttl">
+										<span class="inside">A emporter</span>
+									</span>
+								</div>
+								<a href="#popin-1" class="link-arrow js-popin-1-show" data-popin="trigger" data-number="1">Voir l'adresse</a>
+							</div>
+						</div>
+					</div>
+					<div class="grid-1-3 phab-full">
+						<div class="block-formule type-2 center">
+							<div class="inside">
+								<i class="i-checkbox-2 flleft"></i>
+								<i class="i-restaurant icon"></i>
+								<div class="center">
+									<span class="ttl">
+										<span class="inside">Sur place</span>
+									</span>
+								</div>
+								<a href="#popin-2" class="link-arrow js-popin-2-show" data-popin="trigger" data-number="2">Voir l'adresse</a>
+							</div>
+						</div>
+					</div>
+					<div class="grid-1-3 phab-full">
+						<div class="block-formule type-3 center">
+							<div class="inside">
+								<i class="i-checkbox-3 flleft"></i>
+								<i class="i-livraison icon"></i>
+								<div class="center">
+									<span class="ttl">
+										<span class="inside">Livraison</span>
+									</span>
+								</div>
+								<a href="#popin-3" class="link-arrow js-popin-3-show" data-popin="trigger" data-number="3">Voir la liste des villes délivrées</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- block -->
+			<div class="mob-layout">
+				<div class="block home-intro">
+					<div class="grids grids-large">
+						<div class="grid-1-2 phab-full">
+							<div class="content">
+								<h2 class="ttl-2 ttl">Fast Food africain</h2>
+								<div class="txt-intro">
+									SAMY vous propose des plats de riz africain
+									Avec un très bon rapport qualité/prix et servis rapidement.
+									Vos plats de riz africains tel que Yassa, mafé, thieb, thiou,
+									théboudiènne, saka-saka, sont préparés par des
+									cuisiniers  sélectionner rigoureusement dans le but de vous
+									servir des plats africains de qualité. commandez vos plats
+									africains facilement et rapidement sur SAMY.com.
+									ensuite faites vous livrer vos plats africains, ou venez les récupérer
+									dans votre restaurant. Bon appétit.
+								</div>
+								<div class="tiles">
+									<div class="grids">
+										<div class="grid-1-2 phab-full">
+											<a href="" class="tile type-1">
+												<div class="mobile-wrap mobile-wrap-fidelity">
+													<div class="tile-ico">
+														<img src="/images/ico_fidelity.png">
+													</div>
+													<p class="tile-ttl">Votre fidélité</p>
+													<p>est récompensée</p>
+													<span href="#" class="link-arrow">En savoir plus</span>
+												</div>
+											</a>
+										</div>
+										<div class="grid-1-2 phab-full">
+											<a href="" class="tile type-2">
+												<div class="mobile-wrap mobile-wrap-social">
+													<div class="tile-ico">
+														<img src="/images/ico_socials.png">
+													</div>
+													<p class="tile-ttl">Vous aimez ?</p>
+													<p>Faites-le savoir</p>
+													<span class="link-arrow">Partager</span>
+												</div>
+											</a>
+										</div>
+										<div class="grid-full">
+											<div class="tile type-3">
+												<p class="tile-ttl">Newsletter</p>
+												<p>Inscrivez-vous et recevez nos réductions</p>
+												<form class="layout-form nl-form" action="/newsletters/inscription" method="get">
+													<input class="input" type="email" name="email" id="email" value="" />
+													<input type="hidden" name="partial" value="1" />
+													<input class="btn-nlsubmit" type="submit" name="submit" value="OK" />
+												</form>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="grid-1-2 phab-full">
+							<!--<div class="illus">
+								<img src="/images/illus_resto-room.png">
+							</div> -->
+							<div class="home-slide-content">
+								<div class="home-photos-slider">
+									<ul class="slides slides-home">
+										<li class="slide">
+											<img src="/images/illus_slide_03.jpg"
+												 alt="Cuisine africaine dans restaurant "
+												 title="Cuisine africaine ">
+										</li>
+										<li class="slide">
+											<img src="/images/illus_slide_01.jpg"
+												 alt="Cuisine africaine "
+												 title="SAMY cuisine africaine ">
+										</li>
+										<li class="slide">
+											<img src="/images/illus_slide_02.jpg"
+												 alt="Poulet Mafé chez traiteur africain SAMY"
+												 title="Cuisine africaine poulet mafé SAMY">
+										</li>
+										
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- block -->
+			<div class="block">
+				<h4 class="ttl-1"><span>Nos différents plats</span></h4>
+			</div>
+
+			<!-- block -->
+			<div class="mob-layout">
+				<div class="block menu-list">
+					<ul class="grids grids-large">
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Thieb</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieb-poulet">
+											
+												Thieb Rouge Poulet											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieb-boeuf">
+											
+												Thieb Rouge Boeuf											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieb-blanc-poulet">
+											
+												Thieb Blanc Poulet											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieb-blanc-boeuf">
+											
+												Thieb Blanc Boeuf											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieboudienne">
+											
+												Thiéboudiènne											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Mafé</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/mafe-poulet">
+											
+												Mafé Poulet											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/mafe-boeuf">
+											
+												Mafé Boeuf											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Yassa</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/yassa-poulet">
+											
+												Yassa Poulet											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/yassa-boeuf">
+											
+												Yassa Boeuf											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Thiou</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thiou-poulet">
+											
+												Thiou Poulet											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thiou-boeuf">
+											
+												Thiou Boeuf											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Saka-Saka</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/saka-Saka-boeuf">
+											
+												Saka-Saka Boeuf											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/saka-saka-poulet">
+											
+												Saka-Saka Poulet											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Pastels</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/pastels-de-boeuf">
+											
+												Pastels au Boeuf (x4)											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/pastels-de-poulet">
+											
+												Pastels au Poulet (x4)											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/pastels-de-thon">
+											
+												Pastels au Thon (x4)											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Poulet DG</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/poulet-dg">
+											
+												Poulet DG											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Grillades</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/jus-de-gingembre">
+											
+												Jus de Gingembre											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thieboudienne">
+											
+												Thiéboudiènne											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/coca-cola-1-5l">
+											
+												Coca-Cola 1,5 L											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Desserts</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/thiakiry">
+											
+												Thiakiry											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/tiramisu">
+											
+												Tiramisu											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Boissons</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/coca-cola-33-cl">
+											
+												Coca-Cola 33 CL											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/canette-sprite-33-cl">
+											
+												Sprite 33 CL											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/canette-oasis-33-cl-saveur-tropicale">
+											
+												Oasis Tropicale 33 CL											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/perrier-50-cl">
+											
+												Perrier 50 CL											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/canettte-ice-tea-33-cl">
+											
+												Ice Tea Pêche 33 CL											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+											<li class="grid-1-4 mob-1-2 phab-full">
+							<div class="menu-item">
+								<h2 class="ttl">Suppléments</h2>
+								<ul class="submenu-list list-circle">
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/sauce-yassa">
+											
+												Sauce Yassa											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/sauce-saka-saka">
+											
+												Sauce Saka-Saka											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/riz-thieb-blanc">
+											
+												Riz Thieb Blanc											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/riz-blanc">
+											
+												Riz Blanc											</a>
+										</h3>
+									</li>
+														<li>
+										<h3 class="inline">
+											<a href="/restaurant/plat-africain/allocos">
+											
+												Allocos											</a>
+										</h3>
+									</li>
+													</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- POPIN  1 -->
+<div id="popin-1" class="popin-box mfp-hide" data-popin="container" data-number="1">
+	<div class="block-formule-popin popin-box-inbox type-1 center">
+		<div class="inside">
+			<i class="i-adresse icon"></i>
+			<div class="center">
+				<span class="ttl">
+					<span class="inside">Notre adresse</span>
+				</span>
+			</div>
+			<div class="popin-text">
+				<p>26 rue pali koa</p>
+				<p>75 011</p>
+				<p>PARIS</p>
+			</div>
+
+			<a class="btn-popin lato-bold" href="/restaurant-africain"><span class="btn-wrap"><i class="i-basket icon-position"></i>Commander</span></a>
+		</div>
+	</div>
+</div>
+
+
+<!-- POPIN  2 -->
+<div id="popin-2" class="popin-box mfp-hide" data-popin="container" data-number="2">
+	<div class="block-formule-popin popin-box-inbox type-2 center">
+		<div class="inside">
+			<i class="i-restaurant icon"></i>
+			<div class="center">
+				<span class="ttl">
+					<span class="inside">Notre adresse</span>
+				</span>
+			</div>
+			<div class="popin-text">
+				<p>26 rue pali koa</p>
+				<p>75 011</p>
+				<p>PARIS</p>
+			</div>
+
+			<a class="btn-popin lato-bold" href="/restaurant-africain"><span class="btn-wrap"><i class="i-basket icon-position"></i>Commander</span></a>
+		</div>
+	</div>
+</div>
+
+<!-- POPIN  3 -->
+<div id="popin-3" class="popin-box mfp-hide" data-popin="container" data-number="3">
+	<div class="block-formule-popin popin-box-inbox type-3 center">
+		<div class="inside">
+			<i class="i-livraison icon"></i>
+			<div class="center">
+				<span class="ttl">
+					<span class="inside">Villes délivrées</span>
+				</span>
+			</div>
+			<div class="popin-text">
+							<p>PARIS</p>
+							<p>PUTEAUX</p>
+							<p>MONTREUIL</p>
+							<p>IVTRY-SUR-SEINE</p>
+						</div>
+
+			<a class="btn-popin lato-bold" href="/restaurant-africain"><span class="btn-wrap"><i class="i-basket icon-position"></i>Commander</span></a>
+		</div>
+	</div>
+</div>
+					</div><!--/content-->
+
+				</div><!--/container-->
+
+
+				<div class="reassurance-bar">
+					<div class="layout mob-layout footer-layout">
+						<div class="grids">
+							<div class="grid-6-10 mob-full palm-full">
+								<div class="grids">
+									<div class="grid-4-9 mob-1-2 palm-full">
+										<div class="media reassurance-item">
+											<div class="media-item">
+												<i class="i-phone"></i>
+											</div>
+											<div class="media-body">
+												<p class="reassurance-ttl">Téléphone</p>
+												<p class="reassurance-txt big">06 95 68 37 89</p>
+											</div>
+										</div>
+									</div>
+									<div class="grid-5-9  mob-1-2 palm-full">
+										<div class="media reassurance-item">
+											<div class="media-item">
+												<i class="i-horaire"></i>
+											</div>
+											<div class="media-body">
+												<p class="reassurance-ttl">Ouvert 7j/7</p>
+												<p class="reassurance-txt">Du Mardi au Dimanche de 11h30 à 15h<br/> puis de 18h à 23h</p>
+												<p class="reassurance-txt">Fermé le Lundi</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="grid-4-10 mob-full palm-full">
+								<div class="grids">
+									<div class="grid-half mob-1-2 palm-full">
+											<div class="media reassurance-item">
+											<div class="media-item">
+												<i class="i-halal"></i>
+											</div>
+											<div class="media-body">
+												<p class="reassurance-ttl">Viande<br> Halal</p>
+											</div>
+										</div>
+									</div>
+									<div class="grid-half mob-1-2 palm-full">
+											<div class="media reassurance-item">
+											<div class="media-item">
+												<i class="i-secure"></i>
+											</div>
+											<div class="media-body">
+												<p class="reassurance-ttl">Paiements<br> Sécurisés</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="footer no-animate-link">
+					<div class="layout mob-layout">
+						<div class="grids">
+
+							<div class="grid-2-10 lap-1-4 phab-full">
+								<div class="footer-block block-1 center">
+									<a class="footer-logo" href="/">
+										<img src="/images/logo_white.png" title="Restaurant africain SAMY" alt="Cuisine africaine  propose plat africain">
+									</a>
+								</div>
+							</div>
+
+							<div class="grid-2-10 lap-1-4 phab-full">
+								<div class="footer-block block-2">
+									<p class="footer-ttl">Carte et menus</p>
+									<ul class="grids grids-large">
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/thieb">
+												Thieb											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/mafe">
+												Mafé											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/yassa">
+												Yassa											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/thiou">
+												Thiou											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/saka-Saka">
+												Saka-Saka											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/pastels">
+												Pastels											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/poulet-dg">
+												Poulet DG											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/desserts">
+												Desserts											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/boissons">
+												Boissons											</a>
+										</li>
+																			<li class="grid-1-2">
+											<a href="/restaurant-africain/supplements">
+												Suppléments											</a>
+										</li>
+																		</ul>
+									<div class="sepa phab-hide"></div>
+								</div>
+							</div>
+
+							<div class="grid-2-10 lap-1-4 phab-full">
+								<div class="footer-block block-3">
+									<p class="footer-ttl">L'entreprise</p>
+									<ul>
+										<li><a href="https://www.africa-restos.fr/page-entreprise">Qui est SAMY ?</a></li>
+										<li><a href="https://www.africa-restos.fr/page-securite-alimentaire">Sécurité alimentaire</a></li>
+										<li><a href="https://www.africa-restos.fr/page-qualite-des-aliments">Qualité des aliments</a></li>
+										<li><a href="https://www.africa-restos.fr/page-informations-nutritionnelles">Informations nutritionnelle</a></li>
+										<li><a href="https://www.africa-restos.fr/page-mentions-legales">Mentions légales</a></li>
+										<li><a href="https://www.africa-restos.fr/page-cgv">CGV</a></li>
+									</ul>
+									<div class="sepa"></div>
+								</div>
+							</div>
+
+							<div class="grid-2-10 lap-1-4 phab-full">
+								<div class="footer-block block-4">
+									<p class="footer-ttl">Services et aide</p>
+									<ul>
+										<li><a href="https://www.africa-restos.fr/page-infos-pratiques">Infos pratiques</a></li>
+										<li><a href="https://www.africa-restos.fr/page-recrutement">Recrutement</a></li>
+										<li><a href="https://www.africa-restos.fr/contact">Contact</a></li>
+									</ul>
+									<div class="sepa"></div>
+								</div>
+							</div>
+
+							<div class="grid-2-10 lap-full phab-hide">
+								<div class="footer-block block-5 footer-txt">
+									<hr class="divider green desk-hide lap-show">
+									<p> Chez SAMY, tous vos plats africains sont préparés dans une cuisine dotée d’un équipement strictement professionnel afin de respecter les règles d’hygiène et de sécurité alimentaire.
+									Le personnel est d’ailleurs équipé, sensibilisé et formé spécialement à cet effet.
+									Bon appétit.</p>
+								</div>
+							</div>
+
+							<div class="grid-full">
+
+								<div class="footer-payments">
+									<hr class="divider green">
+									<div class="inside">
+										<div class="grids">
+											<div class="grid-2-12 center">
+												<i class="i-mastercard"></i>
+											</div>
+											<div class="grid-2-12 center">
+												<i class="i-visa"></i>
+											</div>
+											<div class="grid-2-12 center">
+												<i class="i-cb"></i>
+											</div>
+											<div class="grid-2-12 center">
+												<i class="i-ticket-resto"></i>
+											</div>
+											<div class="grid-2-12 center">
+												<i class="i-cheque-dejeuner"></i>
+											</div>
+											<div class="grid-2-12 center">
+												<i class="i-money"></i>
+											</div>
+										</div>
+									</div>
+									<hr class="divider green divider-bottom">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div><!--/footer-->
+
+				<div class="copyright-bar">
+					<div class="layout">
+						<p class="center">
+							© 2017 Copyright SAMY 
+						</p>
+					</div>
+				</div>
+
+			</div><!--/wrapper-->
+		</div><!--/panel-nav-wrapper-->
+
+		<!-- POPIN  error -->
+		<div id="popin-error" class="popin-box mfp-hide" data-popin="container" data-number="1">
+			<div class="block-formule-popin popin-box-inbox type-1 center">
+				<div class="inside">
+					<i class="i-adresse icon"></i>
+					<div class="center">
+						<span class="ttl">
+							<span class="inside">Erreur</span>
+						</span>
+					</div>
+					<div class="popin-text" data-error="text"></div>
+				</div>
+			</div>
+		</div>
+
+
+	</body>
+</html>

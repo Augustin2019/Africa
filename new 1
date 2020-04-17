@@ -1,0 +1,2487 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+    <head>
+        
+    
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M6NVCFP');</script>
+    <!-- End Google Tag Manager -->
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54337428-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-54337428-1');
+
+      gtag('set', {'user_id': '5e99812de4e83'}); // Set the user ID using signed-in user_id.
+    </script>
+    
+    
+            <link rel="manifest" href="/site123_mani_fest.json?v=8&test55pass=1">
+        <script>
+            //Google Say it's must be on onload
+            window.onload = function() {
+                if ( 'serviceWorker' in navigator ) {
+                    navigator.serviceWorker.register('/site123_sw.js');
+                }
+
+                window.addEventListener('beforeinstallprompt', function( e ) {
+                    // prevent Chrome 76 and later from showing the mini-infobar
+                    e.preventDefault();
+                });
+            }
+        </script>
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+        <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+                appId: "ef8720fd-e73f-484a-9447-3d4c1c80568e",
+                safari_web_id: 'web.onesignal.auto.01b20842-ed7c-48c4-bd42-e78491d78625',
+                autoRegister: true,
+                notifyButton: {
+                    enable: false /* Set to false to hide */
+                }
+            }]);
+                            OneSignal.push(["sendTags", {userID: "4397695", language: "fr"}]);
+                    </script>
+    
+    <meta charset="utf-8">
+
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms-s.f-static.com/" crossorigin="anonymous"/>
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms.f-static.com/" crossorigin="anonymous"/>
+    <link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin="anonymous"/>
+    <link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin="anonymous"/>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="SITE123 managment">
+    <meta name="author" content="SITE123">
+
+    <!-- Apple Status Bar -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <!-- 152px icon --><link rel="apple-touch-icon" sizes="152x152" href="//cdn-cms-s.f-static.net/files/webApp/images/icons/icon-152x152.png?v=3">
+    <!-- 180px icon --><link rel="apple-touch-icon" sizes="180x180" href="//cdn-cms-s.f-static.net/files/webApp/images/icons/icon-180x180.png?v=3">
+    <!-- 167px icon --><link rel="apple-touch-icon" sizes="167x167" href="//cdn-cms-s.f-static.net/files/webApp/images/icons/icon-167x167.png?v=3">
+    <meta name="theme-color" content="#4a90e2">
+
+    <link rel="shortcut icon" href="//cdn-cms-s.f-static.net/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=n6400" type="image/x-icon">
+    <link rel="icon" href="//cdn-cms-s.f-static.net/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=n6400" type="image/x-icon">
+
+    <!-- Error Reporting -->
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet"><link rel="stylesheet" href="//cdn-cms-s.f-static.net/versions/2/css/minimizeAdmin.css?v=n6400" type="text/css" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="//cdn-cms-s.f-static.net/manager/include/css.css?v=n6400" type="text/css" crossorigin="anonymous">
+
+    
+        
+    <title>Africa-Restos (3377810)- Tableau de Bord - SITE123</title>                <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:347373,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+            hj('tagRecording', ['lan-fr']);
+                        hj('tagRecording', ['abTest-V1-wizardV_beta_V5']);
+                                                hj('tagRecording', ['userScore-10']);
+                    </script>
+            </head>
+
+<body class="no-skin   dash-screen">
+
+    
+    <div id="main-interface-header">
+        <div class="hedaer-left header-item visible-xs-block">
+            <ul class="nav ace-nav">
+                <li class="light-blue">
+                    <a onclick="window.history.back();"><i class="fa fa-arrow-left"></i></a>
+                </li>
+            </ul>
+        </div>
+        <div class="hedaer-left header-item hidden-xs">
+            <!-- #section:basics/navbar.layout.brand -->
+                        <ul class="nav ace-nav">
+                                <li class="light-blue">
+                    <a href="/versions/2/wizard/dashboard.php?w=3377810"><i class="fa fa-dashboard"></i> Africa-Restos</a>
+                </li>
+                            </ul>
+                    </div>
+
+        <div class="hedaer-center header-item">
+            <a href="/manager/sites.php" class="s123-top-navbar-logo">
+                <img src="//cdn-cms-s.f-static.net/manager/site123_website/files/logos/Logo_final_white.png?v=n6400" style="width: auto;max-height: 35px;opacity: 0.5;" class="hidden-xs" />
+                <img src="//cdn-cms-s.f-static.net/manager/site123_website/files/logos/brand_files/png-icon-white.png?v=n6400" style="width: auto;max-height: 40px;opacity: 0.5;" class="visible-xs-inline-block" />
+            </a>
+        </div>
+
+        <div class="header-right header-item">
+            <div class="right-nav">
+                <ul class="nav ace-nav">
+                    <li class="light-blue hidden">
+                        <a href="/manager/createNewWebsite.php" title="Cr&eacute;er nouveau site web">
+                            <i class="ace-icon fa fa-plus bigger-110"></i> Créer nouveau site web                        </a>
+                    </li>
+                                        <li class="light-blue hidden-xs">
+                        <button onclick="location.href='/manager/upgrade/index.php?w=3377810&ur=dashboardInterfaceHeader'" class="btn btn-sm btn-success"><i class="ace-icon fa fa-star-o"></i> <span class="hidden-xs">Mise à Niveau</span>
+                        </a>
+                    </li>
+                                        <li class="light-blue">
+                        <a data-toggle="dropdown" href="#" class="dropdown-toggle">
+                            <i class="ace-icon fa fa-plus bigger-110"></i><span class="hidden-xs"> Nouveau site Web</span>
+                        </a>
+                        <ul class="user-menu dropdown-menu-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
+                            <li>
+                                                                <a href="/manager/createNewWebsite.php" title="Cr&eacute;er nouveau site web">
+                                    <i class="ace-icon fa fa-plus bigger-110"></i> Créer nouveau site web                                </a>
+                                                            </li>
+                            <li>
+                                <a class="agency_Buttons" href="/manager/agency/add.php" title="Cr&eacute;er un nouveau groupe" id="agency_AddNew" data-agency-title="Cr&eacute;er un nouveau groupe">
+                                    <i class="ace-icon fa fa-building bigger-110"></i> Créer un nouveau groupe                                </a>
+                            </li>
+                        </ul>
+                    </li>
+					<!--li class="light-blue">
+                        <a href="/manager/domain/index.php">
+                            <i class="ace-icon fa fa-globe"></i> <span class="hidden-xs">Domaines</span>
+                        </a>
+                    </li-->
+                    <li class="light-blue" id="user_profile_menu">
+                        <a data-toggle="dropdown" href="#" class="dropdown-toggle">
+                            <i class="ace-icon fa fa-user"></i> <span class="hidden-xs">Compte</span>
+                        </a>
+                        <ul class="user-menu dropdown-menu-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
+                                                                                    <!-- Profile -->
+                            <li>
+                                <a href="/manager/login/profile.php">
+                                    <i class="ace-icon fa fa-user"></i>
+                                    Profil utilisateur                                </a>
+                            </li>
+                            <li class="divider"></li>
+                             <!-- Profile -->
+                            <li>
+                                <a href="/manager/domain/my-domains.php">
+                                    <i class="ace-icon fa fa-link"></i>
+                                    Domaines                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <!-- Share -->
+                            <!--
+                            <li>
+                                <a href="#" data-toggle="modal" data-target="#tellWorld" href="/manager/login/profile.php">
+                                    <i class="ace-icon fa fa-share-alt"></i>
+                                    Partager avec des amis                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            -->
+                            <!-- Billing -->
+							<li>
+                                <a href="/manager/login/billing.php">
+                                    <i class="ace-icon fa fa-credit-card"></i>
+                                    Facturation et Produits                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <!-- Refer a Friend -->
+                            <li>
+                                <a href="/manager/referFriend/main.php">
+                                    <i class="ace-icon fa fa-users"></i>
+                                    Programme de Parrainage                                </a>
+                            </li>
+                            <!-- Expert -->
+                            <li>
+                                <a href="/manager/expert/main.php">
+                                    <i class="ace-icon fa fa-graduation-cap"></i>
+                                    Programme d'Expert                                </a>
+                            </li>
+                            <!-- Affiliate -->
+                            <li>
+                                <a href="/manager/affiliate/main.php">
+                                    <i class="ace-icon fa fa-money"></i>
+                                    Programme d'Affiliation                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <!-- Logout -->
+                            <li>
+                                <a href="/manager/login/logout.php?l=fr">
+                                    <i class="ace-icon fa fa-power-off"></i>
+                                    Déconnexion                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="main-container" id="main-container">
+        
+        
+        
+        
+        
+        
+        
+        
+
+<style>
+	.dashMain {
+		display: flex;
+	}
+	.dashMain .left {
+		flex: 0 0 370px;
+		background-color: transparent;
+		border:0;
+		padding: 20px;
+	}
+	.dashMain .right {
+		width: 100%;
+		padding-top: 10px;
+		overflow: auto;
+		/* used to prevent overflow when opening the "settings" drop-down on small screens height */
+		min-height: 450px;
+	}
+	@media (min-width: 768px) {
+		.dashMain .right {
+			padding: 20px;
+		}
+	}
+	.widget-box-side-menu {
+		border-top: 0;
+		padding: 0;
+		border: 1px solid #e0e0e0;
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		width: 100%;
+		margin-bottom: 8px;
+
+	}
+	.widget-box-side-menu .widget-main .header {
+        border-bottom: 1px solid #e0e0e0;
+        padding: 10px;
+	}
+	.widget-main {
+		padding:0;
+	}
+	.widget_inside_box {
+		padding: 10px;
+	}
+	.btn.btn-app.radius-4 {
+		margin: 0 18px 18px 0;
+	}
+	html[dir=rtl] .btn.btn-app.radius-4 {
+		margin: 0 0 18px 18px;
+	}
+	.list-margin-top {
+		margin-top: -17px !important;
+	}
+	.activityButtons .header {
+		margin-bottom: 12px;
+	}
+
+    .dash-mobile-background-image-screen {
+
+
+    }
+
+    .dash-mobile-background-image-screen {
+        display: none;
+    }
+    /* mobile design */
+    @media (max-width: 767px) {
+        .dash-mobile-background-image-screen {
+            display: inline-block;
+            border-top: 0;
+            padding: 0;
+            border: 1px solid #e0e0e0;
+            background-position: center center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 100%;
+            margin-bottom: 8px;
+            position: absolute;
+            opacity: 0.2;
+        }
+    }
+
+	.btn.btn-app {
+		width: auto;
+		min-width: 100px;
+		padding: 12px 12px 8px
+	}
+	/* Modal - Extra Large */
+	@media (min-width: 992px) {     /* We don't like to decrease the modal width on mobile */
+		.modal-xlg,
+		.bootbox-modal-xlg .modal-lg {
+			width: 90%;
+		}
+	}
+	.modal-xlg-height {
+		height: calc(100vh - 100px);
+	}
+	@media (min-height: 700px) {
+		.modal-xlg-height {
+			height: calc(100vh - 130px);
+		}
+	}
+	.sale-banner-container {
+		cursor: pointer;
+	}
+
+	/* mobile design */
+	@media (max-width: 767px) {
+
+		/* Dashboard buttons Design
+		--------------------------------------------------------*/
+		/* Dashboard buttons container design */
+		.managerButtons {
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: center;
+			width: 100%;
+		}
+		/* Set for all buttons containers width of 50%*/
+		.managerButtons  > div {
+			width: 50%;
+		}
+		/* 1 is Edit button, 4 is Domain button*/
+		html[dir=ltr] .managerButtons  > div:nth-child(1) > *,
+		html[dir=ltr] .managerButtons  > div:nth-child(4) > * {
+			float: right;
+		}
+		/* 1 is Edit button, 4 is Domain button*/
+		html[dir=rtl] .managerButtons  > div:nth-child(1) > *,
+		html[dir=rtl] .managerButtons  > div:nth-child(4) > * {
+			float: left;
+		}
+
+		/* Activity Design
+		--------------------------------------------------------*/
+
+		/* Stretch the activities on full width and set 2 in row */
+		.activityButtons  > div:nth-child(2) .mini-card {
+			display: flex;
+			justify-content: space-between;
+			width: 100%;
+			height: 120px;
+		}
+		/* Remove the default margin from the activity icon */
+		.activityButtons  > div:nth-child(2) .mini-card-icon {
+			margin: 0px;
+		}
+		/* Break word for long sentence */
+		.activityButtons  > div:nth-child(2) .mini-card > .mini-card-info {
+			display: block;
+		    max-width: 230px;
+		    word-wrap: break-word;
+		}
+		/* Pull the activity number to left on rtl website */
+		html[dir=rtl] .activityButtons  > div:nth-child(2)  .counter {
+			text-align: left;
+		}
+		/* Pull the activity number to right on ltr website */
+		html[dir=ltr] .activityButtons  > div:nth-child(2)  .counter {
+			text-align: right;
+		}
+
+	}
+
+    /*
+    @media (min-height: 820px) {
+        #activitySaleButton {
+            display: none;
+        }
+    }
+    */
+
+    .websiteLink {
+        word-break: break-all;
+    }
+
+    /* Pro Feature Label */
+    .languages-manager-act-btn .pro-feature-label,
+	.website-statistics-tool .pro-feature-label,
+	#redirectDomains .pro-feature-label,
+	#setUniqueDomain .pro-feature-label {
+		background-color: #fee188;
+	    border-color: #fee188;
+		margin-left: 5px;
+		color: black;
+		vertical-align: middle;
+		border-radius: 5px;
+	}
+	html[dir=rtl] .website-statistics-tool .pro-feature-label,
+	html[dir=rtl] #redirectDomains .pro-feature-label,
+	html[dir=rtl] #setUniqueDomain .pro-feature-label {
+		margin-left: auto;
+		margin-right: 5px;
+	}
+	.languages-manager-act-btn .pro-feature-label{
+		position: absolute;
+    	top: 21px;
+	   	right: 33px;
+	}
+</style>
+
+<div class="main-content">
+	<div class="main-content-inner">
+
+        <div class="dash-mobile-background-image-screen flex-div-center" style="background-image: url(https://cdn-cms.f-static.net/uploads/3377810/800_5e9983c8b4b65.jpg);height: 230px;background-color:#fff;">
+            <div>
+                <div class="text-center">
+
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+		<div class="">
+
+			<div class="container">
+
+				<div class="dashMain">
+
+					<div class="left hidden-xs">
+
+						<div class="dashSideMenu">
+
+							
+							<div class="widget-box-side-menu flex-div-center" style="background-image: url(https://cdn-cms.f-static.net/uploads/3377810/800_5e9983c8b4b65.jpg);height: 171px;background-color:#fff;">
+								<div>
+									<div class="text-center">
+
+										
+										
+										
+									</div>
+								</div>
+							</div>
+
+							<div class="widget-box-side-menu">
+								<div class="widget-body">
+									<div class="widget-main">
+
+										
+										<div class="row widget_inside_box">
+											<div class="col-xs-4">
+												Nom :											</div>
+											<div class="col-xs-8">
+												<div class="">
+													Africa-Restos												</div>
+											</div>
+										</div>
+
+																				<div class="row widget_inside_box">
+																							<div class="col-xs-4">
+													Domaine :												</div>
+												<div class="col-xs-8">
+													<div class="">
+														<a class="websiteLink" href="http://5e998130bf44f.site123.me" target="_blank" style="direction:ltr; display:inline-block;">5e998130bf44f.site123.me <i class="fa fa-external-link"></i></a>
+													</div>
+												</div>
+																					</div>
+										
+										
+										
+
+									</div>
+																	</div>
+							</div>
+
+							
+							
+														<div class="widget-box-side-menu">
+								<div class="widget-body-danger">
+									<div class="widget-main">
+
+										<div class="row widget_inside_box">
+											<div class="col-xs-12">
+												Domaine Suggéré											</div>
+											<div class="text-center" style="padding: 20px;">
+																																					<h4>www.africa-restos.fr</h4>
+																																			</div>
+											<div class="text-center">
+												<a class="btn btn-success" href="/manager/upgrade/index.php?w=3377810&ur=dashboardSuggestDomainBox">Mettez à niveau maintenant!</a>
+											</div>
+
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+                            <script>
+                                document.domain = "site123.com";
+                            </script>
+
+														<div class="widget-box-side-menu">
+								<div class="widget-body">
+                                    <div class="widget-main">
+                                        <div class="header">
+                                            Trouvez votre domaine parfait:                                        </div>
+										<div class="row widget_inside_box">
+											<div class="col-xs-12 hidden-xs">
+                                                <div id="SetDomainQuickSearchWidget_5e99929103521" class="SetDomainQuickSearchWidget" data-dashboard="1" data-website-id="3377810" data-upgrade-reason="multiSearchDashboardSearch" data-design-style="light"></div>
+											</div>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+                            
+                                                        <div class="widget-box-side-menu" style="margin: 0;border-left:1px solid transparent;border-right:1px solid transparent;border-bottom: 0;">
+                                <div class="widget-body-danger" style="background-color: #5f78a1;">
+                                    <div class="widget-main text-center" style="padding:10px 10px;">
+                                        <div style="padding-top:10px;padding-bottom:10px;">
+                                            <div class="saleExpiry" style="font-size:16px;color:yellow;">2020-04-19 10:13:33</div>
+                                        </div>
+                                                                                <h4 class="header lighter bigger hidden" style="margin:0;">
+                                            <i class="f f-present-box"></i>
+                                            Remise - 40% DE REMISE                                        </h4>
+                                        <div class="text-center" style="padding:10px;">
+                                            <a class="btn btn-success" style="background-color: transparent !important;border-color: white;border-width: 1px;" href="/manager/upgrade/index.php?w=3377810&ur=dashboardSaleDiscountBox">Mettez à niveau maintenant!</a>
+                                        </div>
+
+                                        <div>
+                                                                                        <h4>OFFRE À DURÉE LIMITÉE</h4>
+                                            <p class="hidden">Offre d'une durée limitée de 40% sur nos forfaits d'hébergement annuels</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            <a href="/manager/upgrade/index.php?w=3377810&ur=dashboardSaleDiscountBox"><img style="border-left:1px solid transparent;border-right:1px solid transparent;" src="//cdn-cms-s.f-static.net/files/images/discount/dashboard/40.gif?v=n6400"></a>
+                                                        
+							<!--<div class="well well-success text-center">
+								<h4>Nous apprécierons votre commentaire.</h4>
+								<p>Votre commentaire nous aidera à améliorer notre produit, ce qui aura pour effet d'améliorer votre service.</p>
+								<br/>
+								<a class="btn" href="#" data-toggle="modal" data-target="#helpWindow">Aidez-nous à nous améliorer</a>
+							</div>-->
+
+						</div>
+					</div>
+
+					<div class="right">
+						<div class="managerButtons">
+							<!-- Edit -->
+							<div style="display: inline-block;">
+								<div class="btn-group">
+									<a href="/manager/wizard.php?w=3377810&from=dash" class="btn btn-primary btn-app btn-app-mobile radius-4 dash-big-buttons" style="border-radius: 3px;">
+										<i class="ace-icon fa fa-pencil-square-o bigger-160"></i>Modifier									</a>
+								</div>
+							</div>
+							<!-- Insights -->
+							<div class="hidden" style="display: inline-block;">
+								<div class="btn-group">
+									<a class="btn btn-app btn-app-mobile btn-inverse radius-4 dash-big-buttons dropdown-toggle" href="/versions/2/wizard/insights/index.php?w=3377810" style="border-radius: 3px;">
+										<i class="ace-icon fa fa-bar-chart bigger-160"></i>Insights									</a>
+								</div>
+							</div>
+							<!-- Settings -->
+							<div style="display: inline-block;">
+								<div class="btn-group">
+									<button type="button" data-toggle="dropdown" class="btn btn-app btn-app-mobile btn-inverse radius-4 dash-big-buttons dropdown-toggle" aria-expanded="false" style="border-radius: 3px;">
+										<i class="ace-icon fa fa-cog bigger-160"></i>Paramètres									</button>
+									<ul class="dropdown-menu list-margin-top">
+										<li>
+		<a class="confirm-website-websitePassword"
+		data-toggle="modal" data-target="#websitePasswordWindow" data-website-id="3377810" href="#" onclick="return false;">Accès au Site</a>
+	</li><li>
+			<a class="website-statistics-tool" href="#" onclick="return false;" data-toggle="modal" data-target="#upgradePackage">Statistiques</a>
+		</li><li>
+			<a class="website-plugins-tool" href="/versions/2/wizard/modules/mDash.php?w=3377810&t=plugins">Plugins et Code Personnalisé</a>
+		</li><li>
+		<a class="confirm-website-websiteRedirects" data-toggle="modal" data-target="#websiteRedirectsWindow" data-website-id="3377810" data-version="2" href="#" onclick="return false;">Redirections 301</a>
+	</li><li>
+			<a data-toggle="modal" data-target="#contributorsWindow" data-website-id="3377810" href="#" onclick="return false;">Contributeurs</a>
+		</li><li>
+			<a class="confirm-website-duplicate" data-website-id="3377810" data-version="2" data-version="2" data-version="2" data-website-name="Africa-Restos" href="#" onclick="return false;">Dupliquer</a>
+		</li><li class="divider"></li><li><a class="confirm-website-reset red" data-website-id="3377810" data-version="2" href="#" onclick="return false;" title="Vos modifications reviendront à la dernière version publiée.">Réinitialiser</a>
+		</li><li><a class="confirm-website-transfer red" data-toggle="modal" data-target="#transferWebsite"  data-website-id="3377810" href="#" onclick="return false;" title="Transférez le site web vers un autre utilisateur.">Transférer</a>
+		</li><li><a class="confirm-website-remove red" data-website-name="Africa-Restos" href="#" onclick="return false;" data-href="/versions/2/wizard/deleteWebsite.php?w=3377810">Supprimer</a>
+		</li>									</ul>
+								</div>
+							</div>
+							<!-- Domain -->
+							<div style="display: inline-block;">
+								<div class="btn-group">
+									<button type="button" data-toggle="dropdown" class="btn btn-app btn-app-mobile btn-inverse radius-4 dash-big-buttons dropdown-toggle" aria-expanded="false" style="border-radius: 3px;">
+										<i class="ace-icon fa fa-link bigger-160"></i>Domaine									</button>
+									<ul class="dropdown-menu list-margin-top">
+										<li>
+											<a id="setUniqueDomain" href="#" onclick="return false;" data-toggle="modal" data-target="#domainWindow" data-website-id="3377810" data-kind="unique">
+												Configurer un domaine unique											</a>
+										</li>
+										<li class="hidden">
+											<a
+											data-toggle="modal" data-target="#sslWindow" data-website-id="3377810" href="#" onclick="return false;">Configurer SSL</a>
+										</li>
+										<li>
+											<a id="redirectDomains" href="#" onclick="return false;" data-toggle="modal" data-target="#redirectDomainWindow" data-website-id="3377810" data-version="2">
+												Rediriger des domaines											</a>
+										</li>
+																			</ul>
+								</div>
+							</div>
+							<!-- Upgrade -->
+														<div style="display: inline-block;">
+								<div class="btn-group">
+										
+									<a href="/manager/upgrade/index.php?w=3377810&ur=dashboardBigGreenButton" class="btn btn-success btn-app btn-app-mobile radius-4 dash-big-buttons" style="border-radius: 3px;">
+										<i class="ace-icon fa fa-star-o bigger-160"></i>
+										Mise à Niveau									</a>
+																	</div>
+							</div>
+													</div>
+
+						<div class="activityButtons">
+							<div class="row">
+								<div class="col-xs-12">
+									<h3 class="header" style="margin-top:0;">Activités</h3>
+								</div>
+							</div>
+							<div class="row">
+                                                                <div id="activitySaleButton" class="col-xs-12 col-md-4">
+                                    <a class="dashboard-messages-btn card-outside-link" href="/manager/upgrade/index.php?w=3377810&ur=dashboardActivitiesSaleButton">
+                                        <div class="mini-card" style="background-color: #5f78a1 !important;justify-content: center !important;">
+                                            <div class="mini-card-info text-center" style="color:white;">
+                                                                                                <span class="counter" style="color:white;text-align: center !important;">40% DE REMISE</span>
+                                                Mettez à Niveau Votre Site Web                                                <div class="saleExpiry" style="font-size:12px;color:yellow;">2020-04-19 10:13:33</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                <div class="col-xs-12 col-md-4">
+                                    <a class="dashboard-messages-btn card-outside-link" href="/versions/2/wizard/modules/mDash.php?w=3377810&t=messages">
+                                        <div class="mini-card">
+                                            <span class="mini-card-icon"><i class="fa fa-envelope-o"></i></span>
+                                            <div class="mini-card-info text-right">
+                                                                                                    <span class="counter">0</span>
+                                                                                                Messages du formulaire                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                								<div class="col-xs-12 col-md-4">
+	                                										<a class="dashboard-messages-btn card-outside-link languages-manager-act-btn" href="#" onclick="return false;" data-toggle="modal" data-target="#upgradePackage">
+									                                        <div class="mini-card">
+                                            <span class="mini-card-icon"><i class="fa fa-language"></i></span>
+                                            <div class="mini-card-info text-right">
+												<span class="counter">&nbsp;</span>
+												Langues                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+								<div class="col-xs-12 col-md-4">
+									<a class="card-outside-link" href="/versions/2/wizard/modules/mDash.php?w=3377810&t=mailing">
+										<div class="mini-card">
+											<span class="mini-card-icon"><i class="fa fa-paper-plane-o"></i></span>
+											<div class="mini-card-info text-right">
+																									<span class="counter">0</span>
+																								Liste de diffusion											</div>
+										</div>
+									</a>
+								</div>
+
+								
+									                                                                                <div class="col-xs-12 col-md-4">
+                                            <a class="dashboard-order-btn card-outside-link" href="/versions/2/wizard/modules/mDash.php?w=3377810&t=94&e=1">
+                                                <div class="mini-card">
+                                                    <span class="mini-card-icon"><i class="fa fa-cutlery"></i></span>
+                                                    <div class="mini-card-info text-right">
+                                                    <span class="counter">0</span>
+                                                        Réservations de restaurant                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        																								</div>
+						</div>
+
+						<!-- PAGE CONTENT ENDS -->
+					</div><!-- /.col -->
+
+				</div><!-- /.row -->
+
+			</div>
+
+
+		</div><!-- /.page-content -->
+	</div>
+</div><!-- /.main-content -->
+
+<!-- Domain Window -->
+<div class="modal s123-modal fade" id="domainWindow" tabindex="-1" role="dialog" aria-labelledby="domainWindow">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Paramètres du domaine</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Transfer Website Modal -->
+<div class="modal s123-modal fade" id="transferWebsite" tabindex="-1" role="dialog" aria-labelledby="transferWebsite">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Transférer site web</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Active SSL Window -->
+<div class="modal s123-modal fade" id="sslWindow" tabindex="-1" role="dialog" aria-labelledby="sslWindow">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Configurer SSL</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Move website between user teams -->
+<div class="modal s123-modal fade" id="moveToTeam" tabindex="-1" role="dialog" aria-labelledby="moveToTeam">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Déplacer le site Web vers un groupe</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Active Website Password -->
+<div class="modal s123-modal fade" id="websitePasswordWindow" tabindex="-1" role="dialog" aria-labelledby="websitePasswordWindow">
+	<div class="modal-dialog modal-xlg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Accès au Site</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Website 301 Redirects -->
+<div class="modal s123-modal fade" id="websiteRedirectsWindow" tabindex="-1" role="dialog" aria-labelledby="websiteRedirectsWindow">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Redirections 301</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Contributors Window -->
+<div class="modal s123-modal fade" id="contributorsWindow" tabindex="-1" role="dialog" aria-labelledby="contributorsWindow">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Contributeurs du site.</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Redirect Domain Window -->
+<div class="modal s123-modal fade" id="redirectDomainWindow" tabindex="-1" role="dialog" aria-labelledby="redirectDomainWindow">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Rediriger des domaines</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Mailboxes -->
+<div class="modal s123-modal fade" id="mailboxesManage" tabindex="-1" role="dialog" aria-labelledby="mailboxesManage">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Gérer les Boîtes aux Lettres</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Upgrade package Modal -->
+<div class="modal fade" id="unlockFeature" tabindex="-1" role="dialog" aria-labelledby="unlockFeature">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title">Obtenir des Boîtes aux Lettres</h4>
+			</div>
+			<div class="modal-body">
+								<p class="lead">Votre package de site Web n'inclut pas les boîtes aux lettres! S'il vous plaît envisager de mettre à niveau vers un paquet supérieur et vous pouvez avoir des boîtes aux lettres. Cliquez sur le bouton de mise à niveau pour voir nos forfaits.</p>
+				<div class="text-center">
+					<a href="/manager/upgrade/index.php?w=3377810&ur=dashboardAddMailboxMessage" class="btn btn-success" style="text-transform: uppercase;">Mise à Niveau</a>
+				</div>
+							</div>
+		</div>
+	</div>
+</div>
+
+        <!-- Old Upgrade package Modal -->
+	<div class="modal s123-modal fade" id="upgradePackage" tabindex="-1" role="dialog" aria-labelledby="upgradePackage">
+	    <div class="modal-dialog" role="document">
+	        <div class="modal-content">
+	            <div class="modal-header">
+	                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	                <h4 class="modal-title">Mettre le pack à niveau</h4>
+	            </div>
+	            <div class="modal-body pages-background">
+	                <div class="widget-box widget-color-blue" style="border: 0;margin: 0;">
+	                    <div class="widget-body">
+	                        <div class="widget-main" style="padding: 12px;">
+	                            <ul class="list-unstyled spaced2">
+	                                <li>
+	                                    <i class="ace-icon fa fa-check blue"></i>
+	                                    Connectez votre domaine personnalisé	                                </li>
+	                                <li>
+	                                    <i class="ace-icon fa fa-check blue"></i>
+	                                    Enlever le tag flottant « Propulsé par SITE123 »	                                </li>
+	                                <li>
+	                                    <i class="ace-icon fa fa-check blue"></i>
+	                                    Domaine gratuit (abonnement annuel)	                                </li>
+	                                <li>
+	                                    <i class="ace-icon fa fa-check blue"></i>
+	                                    Multi-langue	                                </li>
+	                                <li>
+	                                    <i class="ace-icon fa fa-check blue"></i>
+	                                    Et plus...	                                </li>
+	                            </ul>
+	                        </div>
+	                        <div class="text-center buttons-container" style="padding: 0 0 17px 0;">
+	                        		                            <a id="upgradeBtn" target="_blank" type="button" class="btn btn-lg btn-success" href="/manager/upgrade/index.php?w=3377810&ur=dashboardDefaultUpgradeWindow">Mise à Niveau</a>
+	                            	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+    
+      <div class="footer">
+
+      </div>
+
+      <a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+        <i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
+      </a>
+    </div><!-- /.main-container -->
+
+
+
+<!-- Preview Website -->
+<div class="modal fade bs-example-modal-lg" id="previewWindow" tabindex="-1" role="dialog" aria-labelledby="previewWindow">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Prévisualiser site web</h4>
+      </div>
+      <div class="modal-body">
+        &nbsp;
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Help Request -->
+<div class="modal fade" id="helpWindow" tabindex="-1" role="dialog" aria-labelledby="helpWindow">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Envoyez-nous vos questions et vos commentaires</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-12">
+            <form id="helpWindowAjax">
+              <div class="form-group">
+                <label for="name">Nom</label>
+                <input type="text" class="form-control" name="name" value="SAMY" placeholder="Nom" required data-msg-required="Ce champ est requis">
+              </div>
+              <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="text" class="form-control" name="email" value="nsammy@hotmail.fr" placeholder="E-mail" required data-msg-required="Ce champ est requis" style="direction:ltr;">
+              </div>
+              <div class="form-group">
+                <label for="message" style="color:green;">Qu'est-ce que vous avez aimé ?</label>
+                <textarea class="form-control" name="message" placeholder="Qu'est-ce que vous avez aimé ?" style="height:120px;border-color:green;"></textarea>
+              </div>
+              <div class="form-group">
+                <label for="message" style="color:red;">Qu'est-ce que vous n'avez pas aimé ?</label>
+                <textarea class="form-control" name="message" placeholder="Qu'est-ce que vous n'avez pas aimé ?" style="height:120px;border-color:red;"></textarea>
+              </div>
+
+              <div class="SubmitButtonsArea form-actions">
+                <button type="submit" class="btn btn-success">Envoyer</button>
+              </div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Tell the world about us -->
+<div class="modal fade" id="tellWorld" tabindex="-1" role="dialog" aria-labelledby="tellWorld">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Partagez SITE123 avec vos amis</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Learning Center -->
+<div class="modal fade" id="learnCenter" tabindex="-1" role="dialog" aria-labelledby="learnCenter">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Centre d’apprentissage</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        Hello you
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Agency account list-->
+<div class="modal s123-modal fade" id="agencyAccount" tabindex="-1" role="dialog" aria-labelledby="agencyAccount">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Paramètres de l’Agence</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- One Click Order -->
+<div class="modal fade" id="oneClickOrderModal" tabindex="-1" role="dialog" aria-labelledby="oneClickOrderModal">
+    <div class="modal-dialog modal-md" role="document">
+        <div class="modal-content">
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Internal Modal -->
+<div class="modal s123-modal fade" id="internalModal" tabindex="-1" role="dialog" aria-labelledby="internalModal">
+    <div class="modal-dialog modal-lg modal-xlg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+
+
+<!-- JavaScript Translations Object -->
+<script>
+	
+	var translations = {
+		"areYouSure": "\u00cates-vous certain(e)\u00a0?",
+		"areYouSureCat": "La suppression d'une cat\u00e9gorie supprime en permanence toutes les pages de la cat\u00e9gorie. \u00cates-vous s\u00fbr de vouloir le supprimer?",
+		"yes": "Oui",
+		"no": "Non",
+		"add": "Ajouter",
+		"title": "Titre",
+		"manage": "G\u00e9rer",
+		"edit": "Modifier",
+		"close": "Fermer",
+		"moveModule": "D\u00e9placer la Page",
+		"removeModule": "Supprimer la Page",
+		"removePage": "Supprimer la Page",
+		"removeCategory": "Supprimer la cat\u00e9gorie",
+		"moduleSettings": "Param\u00e8tres de la page",
+		"pageSettings": "Param\u00e8tres de la page",
+		"showOnHomepage": "Afficher sur la page d\u2019accueil",
+		"showOnMenu": "Afficher sur le menu",
+		"showOnFooter": "Afficher sur le pied de page",
+		"pagesDragToCatError": "Vous ne pouvez pas placer cet \u00e9l\u00e9ment \u00e0 l\u2019int\u00e9rieur d\u2019une cat\u00e9gorie\u00a0!",
+        "imageIsTooSmall": "Votre image est trop petite",
+        "uploadFailed": "\u00c9chec du t\u00e9l\u00e9chargement\u00a0!",
+		"uploadFailedInvalidImage": "Type d'Image non valide. Veuillez r\u00e9essayer \u00e0 t\u00e9l\u00e9charger ou t\u00e9l\u00e9charger une autre image.",
+		"sorryTheFileSize": "D\u00e9sol\u00e9, l'image que vous essayez de t\u00e9l\u00e9charger est trop petite. Pour vous assurer que l'image sera parfaite pour tous les appareils, veuillez t\u00e9l\u00e9charger une image plus grande avec des dimensions minimales de {{minWidth}}x{{minHeight}}.",
+		"sorryTheFileSizeUploadBtn": "T\u00e9l\u00e9charger un autre fichier",
+		"sorryTheFileSizeLibraryBtn": "Choisissez depuis la biblioth\u00e8que",
+        "ok": "OK",
+        "Promo": "Promo",
+		"badRequest": "Requ\u00eate incorrecte",
+		"businessPackageOnly": "D\u00e9sol\u00e9, cette option est uniquement disponible pour les d\u00e9tenteurs de forfaits Premium. Cliquez pour mettre \u00e0 niveau.",
+		"fileSizeLimit": "Taille limite\u00a0: {{mb}} Mb;",
+		"fileTypesLimit": "Types\u00a0: {{acceptedFiles}};",
+		"upload": "T\u00e9l\u00e9charger",
+		"library": "Banque d'images",
+		"imagesLibrary": "Biblioth\u00e8que d'images",
+		"videoLibrary": "Biblioth\u00e8que vid\u00e9o",
+		"patterns": "Motifs",
+        "addImageFilters": "Ajouter des filtres \u00e0 l'image",
+        "cropTool": "Rogner l'Image",
+        "imageFocusPoint": "Point de Focus Image",
+		"remove": "Supprimer",
+		"fileUploadInProgress": "T\u00e9l\u00e9chargement du fichier en cours\u00a0!",
+		"pleaseEnterValidColor": "Veuillez saisir un code couleur HEX valide, par ex. #fff ou #ffffff (0-9, a-f, longueur 3 ou 6 caract\u00e8res).",
+		"itemsCategories": "Cat\u00e9gories",
+		"pleaseEnterValidVideoYV": "Veuillez saisir un URL YouTube\/Vimeo valide. Par ex. \u00ab\u00a0https:\/\/www.youtube.com\/videoParameters\u00a0\u00bb ou \u00ab\u00a0http:\/\/vimeo.com\/videoParameters\u00a0\u00bb",
+		"icons": "Ic\u00f4nes",
+        "fieldRequired": "Ce champ est requis",
+        "styles_useMyText": "Utiliser mon texte",
+        "styles_useMyTextExp": "Dans certains cas, votre propre conception de texte ne correspond pas au style s\u00e9lectionn\u00e9, cliquez ici pour v\u00e9rifier si elle correspond.",
+        "styles_useMyImage": "Utiliser mon image",
+        "styles_useMyImageExp": "Dans certains cas, l'image s\u00e9lectionn\u00e9e ne correspond pas au style s\u00e9lectionn\u00e9, cliquez ici pour v\u00e9rifier si elle correspond.",
+		"deleteWebsiteConfirmMsg": "\u00cates-vous certain de vouloir supprimer le site web {{websiteName}}\u00a0?",
+		"restoreWebsiteConfirmMsg": "Voulez-vous vraiment restaurer le site web {{websiteName}}\u00a0?",
+		"duplicateWebsiteConfirmMsg": "\u00cates-vous certain de vouloir dupliquer le site web {{websiteName}}\u00a0?",
+		"pleaseEnterValidPhone": "Entrez un num\u00e9ro de t\u00e9l\u00e9phone valide (0-9, -, +, (), espace, *).",
+		"pleaseEnterValidUrl": "Veuillez saisir un URL valide. Par ex. http:\/\/exemple.com",
+		"pleaseEnterValidUrlWithHttps": "Veuillez entrer une URL valide avec HTTPS. p. ex. https:\/\/example.com",
+		"pleaseEnterValidMoney": "Entrez un num\u00e9ro valide, seuls deux chiffres peuvent \u00eatre ajout\u00e9s apr\u00e8s la virgule.",
+		"fileTypesErrorMsg": "Vous ne pouvez pas t\u00e9l\u00e9charger de fichiers de ce type, veuillez t\u00e9l\u00e9charger uniquement les types suivants\u00a0: {{acceptedFiles}}.",
+		"design": "Design",
+		"choosePageLayout": "Choisissez une mise en Page",
+		"chooseLayoutContent": "Choisissez le contenu de la mise en page",
+        "addNewPage": "Ajouter Nouvelle Page",
+        "PromoPageNameCannotChange": "Le nom de la page Promo ne peut pas changer. Veuillez utiliser le bouton Modifier pour mettre \u00e0 jour le contenu.",
+		"addNewCategory": "Ajouter Nouvelle Cat\u00e9gorie",
+		"showOnPagesMenu": "Ce param\u00e8tre d\u00e9finit si la page appara\u00eetra sur le menu du site Web.",
+        "showOnFooterExp": "Ce param\u00e8tre d\u00e9finit si la page appara\u00eetra sur le pied de page du site Web.",
+        "Hide_page_from_users": "Masquer la page aux utilisateurs",
+        "Hide_page_from_users_explain": "Si vous activez cette option, la page sera masqu\u00e9e sur la version publi\u00e9e de votre site Web. Vous pouvez toujours le g\u00e9rer dans l'\u00e9diteur, mais il ne s'affichera pas \u00e0 vos utilisateurs.",
+        "Your_page_is_hide_from_users": "Votre page est cach\u00e9e aux utilisateurs. Vous pouvez toujours le g\u00e9rer, mais vos utilisateurs ne peuvent pas le voir. Cliquez sur les param\u00e8tres pour modifier cette option.",
+        "Layout_Main": "Principal",
+        "Layout_Content": "Contenu",
+		"shownOnHomepage": "Ce param\u00e8tre d\u00e9finit si la page appara\u00eetra sur la page d'accueil.",
+		"shownOnHomepageSinglePage": "Ce param\u00e8tre d\u00e9finit si la page appara\u00eetra sur la page d'accueil. Sur un type de site Web d'une seule page, cette option est obligatoire et ne peut pas \u00eatre d\u00e9sactiv\u00e9e. Si vous souhaitez d\u00e9sactiver cette fonctionnalit\u00e9, veuillez modifier le type de votre site Web en Multipage.",
+		"shownOnSeperatedPage": "Cette ic\u00f4ne d\u00e9finit si la page appara\u00eetra comme une page distincte et sur la barre de navigation.",
+		"ReadMore": "En savoir plus",
+		"TakeMeThere": "Allons-y\u00a0!",
+		"sorryGotError": "D\u00e9sol\u00e9, une erreur est survenue pendant que vous essayiez de sauvegarder vos modifications.",
+		"Homepage": "Accueil",
+		"editHomepageText": "Ici, vous pouvez \u00e9diter le texte et l'arri\u00e8re-plan de votre page d'accueil. Vous pouvez \u00e9galement choisir les couleurs et les polices de caract\u00e8res de votre site Web.",
+		"Pages": "Pages",
+		"useReadyMadeModules": "Utilisez des pages pr\u00eates \u00e0 l'emploi pour cr\u00e9er votre site Web. Choisissez simplement ce dont vous avez besoin et entrez vos contenus.",
+		"Design": "Design",
+		"designCustomize": "Cr\u00e9ez et personnalisez votre site Web rapidement. Aucune comp\u00e9tence en Design ou en codage n'est requise. Aucun outil de construction complexe. Juste un assistant simple et intuitif.",
+		"Settings": "Param\u00e8tres",
+		"settingsGeneral": "D\u00e9finissez les param\u00e8tres g\u00e9n\u00e9raux tels que le type de site Web, le r\u00e9f\u00e9rencement, la langue du site Web, etc.",
+        "Preview": "Pr\u00e9visualiser",
+		"previewCheckLooks": "V\u00e9rifiez comment votre site web appara\u00eet sur diff\u00e9rents appareils et r\u00e9solutions d'\u00e9cran.",
+        "Domain": "Domaine",
+        "DomainTourExplain": "Ici, vous pouvez voir l'adresse de votre site web actuel. Recherchez et choisissez un domaine unique ou connectez votre domaine existant.",
+		"Publish": "Publier",
+		"PublishChangeExp": "Publiez vos modifications lorsque vous \u00eates pr\u00eat \u00e0 les mettre en direct sur le Web.",
+		"Previous": "Pr\u00e9c\u00e9dent",
+		"Next": "Suivant",
+		"Finish": "Terminer",
+		"EndTour": "Terminer",
+		"Warning": "Avertissement",
+		"beforeMoveTabExp": "S\u2019il vous pla\u00eet remplir tous les champs vides avant de passer \u00e0 l\u2019onglet suivant",
+		"youHaveProFields": "Vous avez des probl\u00e8mes avec l'un des champs, veuillez les corriger avant de publier \u00e0 nouveau.",
+		"OK": "OK",
+		"update": "Mise \u00e0 jour",
+		"wizardVersionUpdateTitle": "Nouvelles mises \u00e0 jour",
+		"wizardVersionUpdateExp": "De nouvelles mises \u00e0 jour vous attendent! Pour les activer, cliquez sur MISE \u00c0 JOUR. La mise \u00e0 jour actualisera l'interface et ne prendra que quelques secondes. Veuillez noter que les nouvelles modifications ne seront sauvegard\u00e9es que lorsque la mise \u00e0 jour sera termin\u00e9e.",
+		"Save": "Enregistrer",
+		"publishSure": "\u00cates-vous certain de vouloir publier\u00a0?",
+		"publishWillUpdate": "\u00ab Publier \u00bb mettra votre site web \u00e0 jour selon les derni\u00e8res modifications.",
+		"Cancel": "Annuler",
+		"Continue": "Continuer",
+        "PublishedDone": "Publi\u00e9\u00a0!",
+        "PublishedDoneV1": "Vos modifications ont \u00e9t\u00e9 publi\u00e9es avec succ\u00e8s!",
+		"Publishing": "Mise en ligne",
+		"YouCanNowSeeChanges": "Vous pouvez maintenant voir vos modifications en ligne comme tous les autres\u00a0:",
+		"YesDomainReady": "OUI\u00a0! Votre domaine est disponible, sauvegardez-le maintenant\u00a0!",
+		"UpgradePackageToday": "METTEZ VOTRE PACK \u00c0 NIVEAU D\u00c8S AUJOURD'HUI\u00a0!",
+		"previewExternalLinkTitle": "Lien Externe",
+		"previewExternalLinkMsg": "Vous essayez de sortir vers un lien externe {{externalLink}} depuis le tableau de bord, qui est d\u00e9sactiv\u00e9 ici. Veuillez acc\u00e9der \u00e0 la pr\u00e9visualisation en plein \u00e9cran pour le faire fonctionner.",
+		"buttonOne": "Bouton 1",
+		"websitePages": "Pages du site web",
+		"spectrumMore": "Plus",
+		"spectrumLess": "Moins",
+		"spectrumChoose": "Choisir",
+		"spectrumCancel": "Annuler",
+		"emailCollectorRestriction": "Limit\u00e9 \u00e0 5 adresses email.",
+		"emailCollectorValidEmail": "Veuillez saisir une adresse e-mail valide.",
+		"latestEditedWebsites": "Derniers sites \u00e9dit\u00e9s",
+		"Notifications": "Notifications",
+		"pleaseEnterValidResponsiveAdSence": "Veuillez entrer un script responsive d'AdSense valide",
+		"ReturnToDashboard":        "Retour au Tableau de Bord",
+		"search":        			"Chercher",
+		"DefaultWebsiteFont":        "Police du site par d\u00e9faut",
+		"CurrencySymbolToolTip":        "Pour changer le symbole de la devise, acc\u00e9dez \u00e0 l'onglet Param\u00e8tres.",
+		"WeightUnitToolTip":        "Pour changer l'unit\u00e9 de poids, allez dans l'onglet Param\u00e8tres.",
+		"LengthUnitToolTip":        "Pour modifier l'unit\u00e9 de longueur, allez \u00e0 l'onglet Param\u00e8tres.",
+		"Saved":                    "Enregistr\u00e9",
+		"Saving":                   "Sauvegarde...",
+		"InternetNetworkError":     "Erreur R\u00e9seau Internet",
+		"Desktop":                  "Desktop",
+		"Tablet":                   "Tablette",
+		"Mobile":                   "Mobile",
+		"NewWindow":                "Nouvelle fen\u00eatre",
+		"library_imageLibrary":     "Biblioth\u00e8que d'images",
+		"library_close":            "Fermer",
+		"library_select":            "S\u00e9lectionnez",
+		"library_cancel":            "Annuler",
+        "StartDate"				 :  "Date de D\u00e9but",
+        "EndDate"				 :  "Date de Fin",
+        "Sunday"				 : 	"Dimanche",
+        "Monday"				 : 	"Lundi",
+        "Tuesday"				 : 	"Mardi",
+        "Wednesday"				 : 	"Mercredi",
+        "Thursday"				 : 	"Jeudi",
+        "Friday"				 : 	"Vendredi",
+        "Saturday"				 : 	"Samedi",
+        "Messages"				 : 	"Messages",        
+        "addNewShift"		     : 	"Ajouter un Nouvel Horaire",
+        "removeShift"		     : 	"Supprimer l'horaire",
+        "BSDatepicker_today"	 : 	"Aujourd'hui",
+        "BSDatepicker_close"	 : 	"Fermer",
+        "note" 			 		 : 	"Note pour les Utilisateurs",
+        "bhNoteToolTip"  		 : 	"Message qui sera affich\u00e9 lorsqu'il n'y a pas de jours ouvrable disponible.",
+        "mainColorWhiteAlert"	 : 	"D\u00e9sol\u00e9, vous ne pouvez pas choisir cette couleur blanche #ffffff comme couleur principale. C'est pour \u00e9viter de perdre votre texte par manque de contraste. Vous pouvez s\u00e9lectionner une nuance de blanc diff\u00e9rente pour pr\u00e9server le contraste.",
+        "chooseImage" 			 : 	"Choisir une image",
+        "uploadFromComputer"     :  "T\u00e9l\u00e9charger",
+        "chooseFromLibrary"      :  "Choisissez depuis la biblioth\u00e8que",
+        "chooseFile" 			 : "Choisir un fichier",
+        "chooseVideo" 			 : "Choisir une vid\u00e9o",
+        "chooseAudio" 			 : "Choisir l'audio",
+        "chooseIcon" 			 : "Choisissez l'ic\u00f4ne",
+        "limitedTimeOfferTitle"  :  "Offre d'une dur\u00e9e limit\u00e9e de {{saleReducedNUM}}% sur nos forfaits d'h\u00e9bergement annuels",
+        "DiscountOFF"            :  "{{discount_percentage}}% DE REMISE",
+        "limitedTimeOffer"       : 	"OFFRE \u00c0 DUR\u00c9E LIMIT\u00c9E",
+        "mobileMainScreent"      : 	"\u00c9cran Principal",
+        "externalLinkModuleMsg"  : 	"Lien Externe",
+        "BackToReadyStructure"   :  "Retour aux Options Pr\u00e9-structur\u00e9es",
+        "AdvancedOptions"        :  "Options de Structure Avanc\u00e9es",
+        "SeeMoreFilters"         :  "Voir plus de filtres",
+        "YourWebsitePassword"	 :  "Mot de passe de votre site Web:",
+        "loginErrorTitle"			:  "Erreur d'identification.",
+        "loginErrorMessage"			:  "Le syst\u00e8me a d\u00e9tect\u00e9 que vous n'\u00eates pas connect\u00e9, veuillez vous connecter.",
+        "loginBtn"					:  "Se connecter",
+        "orders"					:  "Commandes",
+        "topics"					:  "Sujets",
+        "replies"					:  "R\u00e9ponses",
+        "events"					:  "\u00c9v\u00e9nements",
+        "donate"					:  "Don",
+        "comments"					:  "Commentaires",
+        "sent"						:  "Envoy\u00e9",
+        "reservations"				:  "R\u00e9servations",
+        "messages"					:  "Messages",
+        "scheduled"					:  "Pr\u00e9vu",
+        "cv"						:  "CV",
+        "income"					:  "Revenu",
+		"selectAllItems" 			: "S\u00e9lectionner Tous Les Articles",
+		"unselectAllItems" 			: "D\u00e9s\u00e9lectionner Tous les Articles",
+		"deleteSelectedItems" 		: "Supprimer Les \u00c9l\u00e9ments S\u00e9lectionn\u00e9s",
+		"visible" 					: "Visible",
+		"invisible" 				: "Invisible",
+		"saveUpdateSuccessful" 		: "Mise \u00e0 jour r\u00e9ussie",
+		"eit_Save" 					: "Enregistrer",
+		"eit_SaveClose" 			: "Enregistrer et Fermer",
+		"eit_Cancel" 				: "Annuler",
+        "eit_View"                  : "Pr\u00e9visualiser",
+        "AreSureCloseWin"           : "Vous \u00eates s\u00fbr de vouloir fermer la fen\u00eatre ?",
+        "PleaseMakeSaveChangeBefore": "Veuillez vous assurer d'enregistrer vos modifications avant",
+        "SureDiscardChanges"        : "\u00cates-vous s\u00fbr de vouloir abandonner de vos changements?",
+        "PleaseMakeSaveChangeBeforeLeave": "Veuillez vous assurer de sauvegarder vos modifications avant de partir.",
+        "DiscardChanges"            : "Annuler les Modifications",
+        "autocompleteAddNewValue"   : "Ajouter: \"{{value}}\"",
+        "moduleLimitedToOne"        : "{{page_name}} existe d\u00e9j\u00e0 sur ce site. Veuillez essayer un autre nom pour cette page.",
+        "day"                       : "journ\u00e9e",
+        "days"                      : "Journ\u00e9es",
+        "week"                      : "Semaine",
+        "weeks"                     : "Semaines",
+        "ThisOfferExpire"           : "Malheureusement, cette offre a expir\u00e9.",
+        "pagesLimitHeader"          : "Limite de Page",
+        "pagesLimitMessage"         : "Le syst\u00e8me est limit\u00e9 \u00e0 un maximum de {{limited_pages_number}} pages. Pour ajouter une autre page, vous devez supprimer une page existante.",
+        "freePagesLimitHeader"      : "Le pack gratuit est limit\u00e9 \u00e0 {{limited_pages_number}} pages.",
+        "freePagesLimitMessage"     : "Effectuez une mise \u00e0 niveau vers l'un de nos packages premium pour ajouter plus de pages ou supprimez les pages existantes inutiles de votre site Web.",
+        "freePagesLimitMessage_GO_PREMIUM"     : "PASSEZ EN PREMIUM!",
+        "freePagesLimitMessage_Not_now"     : "Pas pour le moment.",
+        "proFeaturelimited"         : "D\u00e9sol\u00e9, cette option est disponible pour les utilisateurs Premium uniquement. Cliquez pour mettre \u00e0 niveau.",
+        "premium"         : "Premium",
+        "SorryDomainNotValid"         : "D\u00e9sol\u00e9 {{domain}} n\u2019est pas un nom de domaine valide.",
+        "SorryDomainIsSubDomain"         : "D\u00e9sol\u00e9 {{domain}} est un sous domaine, le nom de domaine ne doit pas contenir de point.",
+        "minimumDomainLength"         : "Un nom de domaine doit comporter au minimum {{domain_length}} lettres.",
+        "YesDomainAvailable"         : "OUI\u00a0! Votre domaine est disponible",
+        "SorryDomainNotAva"         : "Malheureusement, {{domainName}} n'est pas disponible.",
+        "DragThePageToAnotherPage"         : "Vous pouvez faire glisser la page vers une autre position.",
+        "ChangeLayoutDesignOfPage"         : "Modifier la mise en page de la page.",
+        "ChooseWhereLocate"         : "Choisissez l'emplacement de la page et d'autres param\u00e8tres, tels que le r\u00e9f\u00e9rencement.",
+        "UpdateManageContent"         : "Mettre \u00e0 jour et g\u00e9rer le contenu de la page.",
+        "moreFontsUpgradeMsg": "Mettre \u00e0 niveau pour obtenir plus de 100 polices",
+        "freeFontsList": "Polices Gratuites",
+        "wizardLanguageReload": "Pour modifier la langue du site Web dans les param\u00e8tres, vous devez actualiser votre navigateur. Cela ne prendra que quelques secondes.",
+        "loadmore": "Voir plus",
+        "undo": "Annuler {{shortcut}}",
+        "redo": "Refaire {{shortcut}}",
+        "Templates": "Mod\u00e8les",
+        "TemplatesTabExplain": "Vous trouverez ici de nombreux mod\u00e8les \u00e0 choisir pour votre site Web. Vous pouvez changer votre mod\u00e8le en un clic !",
+        "fontsSearchNoResult": "Aucun r\u00e9sultat",
+        "fontsSearchPlaceHolder": "Rechercher des Polices",
+        "tips_PagesTabDrag": "Vous pouvez modifier la position et l'ordre de vos pages en cliquant dessus et en les faisant glisser.",
+        "tips_PreviewManageButtons": "Vous pouvez g\u00e9rer et concevoir cette page \u00e0 l'aide de ces boutons de raccourci.",
+        "tips_UnderstandBtn": "Je comprends.",
+        "slogan": "Slogan",
+        "seo": "SEO",
+		"italic": {
+			"notSupported": "La police s\u00e9lectionn\u00e9e ne supporte pas l'italique",
+			"supported": "Italique",
+		},
+        // related to `advancedSEO.js` file
+        "advancedSEO": {
+        	"customSEOTitle": "SEO personnalis\u00e9",
+        	"customSEOTooltip": "Le syst\u00e8me g\u00e9n\u00e8re des balises m\u00e9ta de r\u00e9f\u00e9rencement - Avec l'outil de r\u00e9f\u00e9rencement personnalis\u00e9, vous pouvez d\u00e9finir des balises m\u00e9ta personnalis\u00e9es.",
+			"title": {
+				"title" : "Titre m\u00e9ta tag",
+				"placeholder" : "Titre m\u00e9ta tag",
+				"tooltip" : "Vu par les utilisateurs des moteurs de recherche, il est \u00e9galement utilis\u00e9 par les moteurs de recherche pour aider \u00e0 indexer le site Web.",
+			},
+			"description": {
+				"title" : "Description m\u00e9ta-tag",
+				"placeholder" : "Description m\u00e9ta-tag",
+				"tooltip" : "Fournit un r\u00e9sum\u00e9 de ce qu'est le site Web. Il appara\u00eetra en les liens bleus cliquables dans une page de r\u00e9sultats du moteur de recherche.",
+			},
+			"url": {
+				"title" : "URL de la page",
+				"placeholder" : "URL de la page",
+				"tooltip" : "Vous permet de changer l'URL de la page.",
+			},
+			"keywords": {
+				"title" : "Mots-cl\u00e9s m\u00e9ta (p.ex. vacances, voyage, h\u00f4tels)",
+				"placeholder" : "par exemple, vacances, voyage, h\u00f4tels",
+				"tooltip" : "Fournit un r\u00e9sum\u00e9 des mots-cl\u00e9s cibl\u00e9s par le site Web. Cela aide les moteurs de recherche \u00e0 mieux comprendre le contenu de votre site Web.",
+			},
+			"image": {
+				"title" : "Meta tag de l'image"			},
+			"pageTitleHandlerMsg": "Vous avez chang\u00e9 le titre de la page, veuillez \u00e9galement modifier les param\u00e8tres de r\u00e9f\u00e9rencement.",
+			"metaDescriptionTagExample": "Avec la balise meta description, vous pouvez r\u00e9sumer le contenu de la page. Les moteurs de recherche utilisent parfois ces extraits dans les r\u00e9sultats de recherche pour informer les visiteurs de la nature d'une page avant de cliquer dessus.",
+			"metaTitleTagExample": "Titre Meta Tag - Titre de votre page",
+			"remaining": "restant",
+		},
+		"homepageRI": {
+			"patterns": "Veuillez saisir uniquement des lettres de l'alphabet non accentu\u00e9es, des chiffres, des traits d'union ou des espaces (a-z, 0-9, -, espace)",
+			"placeholder": "Rechercher des Images",
+			"typeColorTitle": "Choisissez la couleur",
+			"typeGradientsTitle": "Choisissez le d\u00e9grad\u00e9",
+			"typeImagesTitle": "Choisir une image",
+			"typeCategoriesTitle": "Choisissez la cat\u00e9gorie",
+			"typePatternsTitle": "Choisissez un motif",
+			"all": "Tous",
+			"saveAndClose": "Fermer Et Continuer",
+			"noResultsFound": "Aucun r\u00e9sultat trouv\u00e9.",
+			"savedLabel": "Enregistr\u00e9",
+			"creditsPhotographerName": "Nom du photographe:",
+			"creditsProvider": "Fournisseur:",
+			"creditsSeeMoreDetails": "Voir plus de d\u00e9tails"		},
+		"homepageChangingImages": {
+			"enabled": "Ajouter un nouvel arri\u00e8re-plan",
+			"disabled": "Le diaporama est limit\u00e9 \u00e0 {{maxAmount}} \u00e9l\u00e9ments",
+			"colors": "Couleurs",
+			"gradients": "D\u00e9grad\u00e9s",
+			"patterns": "Motifs"		},
+		"readyTemplates": {
+			"warningTitle": "<b>Attention<\/b>",
+			"warningContent": "Changer un mod\u00e8le r\u00e9initialisera la conception de votre page d'accueil, y compris les images, les vid\u00e9os et le texte, sans option de restauration."		},
+		"upgradeFeaturesManager": {
+			"cancel": "Peut-\u00eatre plus tard",
+			"title": "Les plans premium incluent:",
+		},
+		"suggestedDomains": {
+			"avalible": "Disponible",
+			"notAvalible": "Indisponible"		},
+		"pro": "Pro",
+		"previewAddressBar": {
+			"suggestedDomain": "Domaine sugg\u00e9r\u00e9:"		},
+		"languages": "Langues",
+		"s1232HalfModal": {
+			"closeButton": "Peut-\u00eatre plus tard"		},
+		"oldBrowserMessage": "Vous utilisez un navigateur obsol\u00e8te ne pouvant pas prendre en charge l'interface SITE123. Cliquez ici pour voir une liste des navigateurs sugg\u00e9r\u00e9s pour utiliser notre plateforme.",
+		"trialWebsiteMessage": "Votre site d'\u00e9valuation se termine dans {{days_number}} jours.",
+		"trialWebsiteMessageShort": "{{days_number}} jours",
+		"upgrade": "Mise \u00e0 Niveau",
+		"wizardFooterHandler": {
+			"disabledTootip": "Cette fonctionnalit\u00e9 est d\u00e9sactiv\u00e9e car le site Web n'a pas de pied de page.",
+		},
+		"addSocialLink": "Ajouter un lien social",
+		"editSocialLink": "Modifier le lien social",
+		"tabEffectHandler": {
+			"editAndReplace": "Modifier et remplacer",
+			"colors": "Couleurs",
+			"fonts": "Polices",
+			"headerMenuOptions": "Options d'en-t\u00eate",
+			"footerOptions": "Options de Pied de Page",
+			"advancedWebsiteStructure": "Avanc\u00e9",
+			"websiteStructure": "Structure du Site",
+			"mobile": "Mobile",
+			"media": "M\u00e9dia",
+			"moreThemes": "Th\u00e8mes",
+            "yourThemes": "Votre th\u00e8me",
+            "Customize": "Personnaliser",
+			"fonts": "Polices",
+			"colors": "Couleurs",
+		},
+		"homePageBgOptions": {
+			"customizeHandler": {
+				"customize": "Personnaliser",
+				"color": "Couleur",
+				"moreOptions": "Plus d'options"			},
+			"backgroundColorText": "Couleur d\u2019arri\u00e8re-plan",
+			"backgroundColorTooltip": "Cliquez pour choisir la couleur ou saisissez un code couleur HEX, par ex. #ffffff.",
+			"textColorText": "Couleur du texte",
+			"textColorTooltip": "Cliquez pour choisir la couleur ou saisissez un code couleur HEX, par ex. #ffffff.",
+		},
+		"textPositions": {
+			"myText": "Mon texte"		},
+		"plugins": "Plugins",
+		"packageChangeTitle": "Merci pour la mise \u00e0 jour ! Veuillez recharger votre navigateur.",
+		"packageChangeMessageWizard": "F\u00e9licitations pour la mise \u00e0 jour de votre site web ! Pour explorer toutes les nouvelles fonctionnalit\u00e9s de votre plan actuel, vous devez recharger l'\u00e9diteur. Cliquez ici pour le recharger.",
+		"packageChangeMessageDashboard": "F\u00e9licitations pour la mise \u00e0 jour de votre site web ! Pour explorer toutes les nouvelles fonctionnalit\u00e9s de votre plan actuel, vous devez recharger le tableau de bord. Cliquez ici pour le recharger.",
+		"pageSeoTool": "Ici, vous pouvez modifier le r\u00e9f\u00e9rencement personnalis\u00e9 de votre page.",
+		"pageSloganTool": "Ici, vous pouvez ajouter un slogan qui appara\u00eetra sous le titre de votre page.",
+		"packageChangeTitle": "Merci pour la mise \u00e0 jour ! Veuillez recharger votre navigateur.",
+		"packageChangeMessageWizard": "F\u00e9licitations pour la mise \u00e0 jour de votre site web ! Pour explorer toutes les nouvelles fonctionnalit\u00e9s de votre plan actuel, vous devez recharger l'\u00e9diteur. Cliquez ici pour le recharger.",
+		"packageChangeMessageDashboard": "F\u00e9licitations pour la mise \u00e0 jour de votre site web ! Pour explorer toutes les nouvelles fonctionnalit\u00e9s de votre plan actuel, vous devez recharger le tableau de bord. Cliquez ici pour le recharger.",
+		"uploadCare": {
+			"externalSources": "Sources externes",
+			"chooseAfile": "Choisissez un fichier",
+			"chooseFiles": "Choisir les fichiers",
+			"chooseAnImage": "Choisissez une image",
+			"chooseImages": "Choisissez des images",
+			"fileTypeTitle": "Ce type de dossier n'est pas autoris\u00e9.",
+			"fileTypeText": "Seuls les fichiers des formats suivants sont pris en charge : {{formats}}",
+			"fileTypeErrorBack": "Choisissez un autre fichier",
+			"errors": "Ce type de dossier n'est pas autoris\u00e9.",
+		}
+	};
+</script>
+<!-- JavaScript Translations Object -->
+
+<!-- ace scripts -->
+<script src="//cdn-cms-s.f-static.net/versions/2/js/minimizeAdmin.js?v=n6400" crossorigin="anonymous"></script>
+    <script src="//cdn-cms-s.f-static.net/versions/2/js/minimizeGlobalJsAdminV_beta_V4.js?v=n6400" crossorigin="anonymous"></script>        <script>
+        var versionNUM = '2';
+    </script>
+    
+
+<script>
+jQuery(function($) {
+    redirectOldBrowserToUpgrade();
+
+    //Send user score to FaceBook (it's custom event to FB)
+    //https://developers.facebook.com/docs/ads-for-websites/pixel-events/v2.12
+    if (window.fbq && fbq) {
+                    //User score
+            fbq('trackCustom', 'UserScore', {value: 10});
+                            //Website category
+            fbq('trackCustom', 'WebsiteCategory', {value: "Restaurants and Food"});
+                            //Package
+            fbq('trackCustom', 'Package', {value: "Free"});
+                            //Package
+            fbq('trackCustom', 'interfaceLanguage', {value: "fr"});
+            }
+    
+});
+
+function redirectOldBrowserToUpgrade() {
+    //https://github.com/bestiejs/platform.js/
+
+    /*
+    console.log(platform.name);
+    console.log(platform.version);
+    console.log(platform.product);
+    console.log(platform.os);
+    */
+
+    //Make sure we don't use it in the upgrade browser page so we don't have unlimited refresh
+    if (platform.name === null || window.location.href.indexOf('login/upgrade_browser.php') !== -1) {
+        return;
+    }
+
+    //Add extra data to the tracking errors
+    if (window.TrackJS) {
+        trackJs.addMetadata("platformName",platform.name);
+        trackJs.addMetadata("platformVersion",platform.version);
+        trackJs.addMetadata("platformOS",platform.os);
+    }
+
+    var p_version = (platform.version !== null) ? platform.version.toString().split(".")[0] : '0';
+
+    if (platform.name=='Safari' && (p_version=='5' || p_version=='6')) {
+        window.location.replace("/manager/login/upgrade_browser.php");
+    }
+
+    if (platform.name=='IE' && (p_version=='10' || p_version=='9' || p_version=='8' || p_version=='7' || p_version=='6')) {
+        window.location.replace("/manager/login/upgrade_browser.php");
+    }
+}
+</script>
+<script>
+    jQuery(function($) {
+
+        
+        //Send help window form
+        $("#helpWindowAjax").submit(function(e) {
+            e.preventDefault(); // avoid to execute the actual submit of the form.
+
+            $.ajax({
+              type: "POST",
+              url: "/manager/supportO.php",
+              data: $('#helpWindowAjax').serialize(),
+              success: function(data) {
+                //Show success message
+                $.gritter.add({
+                  title: 'The message sent to us. BIG SMILE TO YOU :)',
+                  class_name: 'gritter-success',
+                  time: 6000
+                });
+
+                //Close window
+                $('#helpWindow').modal('hide');
+              }
+            });
+        });
+        
+        $('#tellWorld').on('show.bs.modal', function (event) {
+
+            var modal = $(this);
+            
+            //We don't reload the window every time it open, only for the first time.
+            if (modal.find('.modal-body .col-md-12').html()=='') {
+                modal.find('.modal-body .col-md-12').html('<iframe id="shareWindow" src="/manager/shareUs.php" style="width:100%;height:450px;margin:0;padding:0;border:none;"></iframe>');
+            }
+
+            mixPanelEvent(false,"Click tell your friend button");
+        });
+
+        //Agency account
+        $('.agency_Buttons').on('click', function(event) {//Prevent the anchor action
+            event.preventDefault();
+
+            var $this = $(this);
+
+            if ($this.attr('disabled')=='disabled') {
+                return;
+            }
+
+            var href = $this.attr('href');
+            var title = $this.data('agency-title');
+
+            // Cross Domain - On dashboard we got cross domain so we handle it here
+            var crossDomain = top.location.href.toLowerCase().indexOf('/dashboard.php') !== -1;
+            if ( href.indexOf('?') === -1 ) {
+              href += '?crossDomain=' + crossDomain;
+            } else {
+              href += '&crossDomain=' + crossDomain;
+            }
+            
+            $('#agencyAccount').find('.modal-body').html('<iframe id="agencyAccountList" src="'+href+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+            $('#agencyAccount').find('.modal-title').html(title);
+            $('#agencyAccount').modal('show');
+        });
+
+        // Expert can create new website for himself or for his client
+        $('.expert-new-website-btn').on('click', function(event) {
+            var html = '';
+            html += '<div class="text-center">';
+                html += '<div>';
+                    html += '<a href="/manager/createNewWebsite.php?expertClientWebsite=true" class="btn btn-primary" style="text-transform: uppercase;" title="'+escapeHtml_footer("Cr\u00e9ez un nouveau site web pour votre client")+'">'+"Cr\u00e9ez un nouveau site web pour votre client"+'</a>';
+                html += '</div>';
+                html += '<div><hr></div>';
+                html += '<div>';
+                    html += '<a href="/manager/createNewWebsite.php" class="btn btn-link" title="'+escapeHtml_footer("Cr\u00e9ez un nouveau site web pour vous-m\u00eame")+'">'+"Cr\u00e9ez un nouveau site web pour vous-m\u00eame"+'</a>';
+                html += '</div>';
+          html += '</div>';
+          // Initialize the bootbox
+          bootbox.dialog({
+            title: "Cr\u00e9er nouveau site web",
+            message: html,
+            backdrop: true
+          });
+        });
+    });
+
+    //Close the pop-up and redirect to the new team
+    function CloseAgencyPopupAndRedirect(agencyID) {
+        $('#agencyAccount').modal('hide');
+        location.href = '/manager/sites.php';
+    }
+
+    //Close the pop-up and reload the agency page
+    function CloseAgencyPopupAndReload(agencyID) {
+        $('#agencyAccount').modal('hide');
+        location.reload();
+    }
+    /**
+     * The function convert special characters to HTML entities, we use it when
+     * we add strings into HTML attributes, it used to prevent the breaks in 
+     * the HTML e.g. title="abc"efg".
+     * 
+     * Source: http://stackoverflow.com/questions/1787322/htmlspecialchars-equivalent-in-javascript
+     */
+    function escapeHtml_footer(text) {
+      
+      if ( !text ) return text;
+
+      var map = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&apos;'
+      };
+      return text.toString().replace( /[&<>"']/g, function( m ) { return map[m]; } );
+    }
+
+
+    //https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android
+    //https://stackoverflow.com/questions/2915833/how-to-check-browser-for-touchstart-support-using-js-jquery
+    /*
+    if ('ontouchstart' in document.documentElement) {
+        document.addEventListener('touchstart', handleTouchStart, false);        
+        document.addEventListener('touchmove', handleTouchMove, false);
+    }
+
+    var xDown = null;                                                        
+    var yDown = null;
+    */
+
+    function getTouches(evt) {
+      return evt.touches ||             // browser API
+             evt.originalEvent.touches; // jQuery
+    }                                                     
+
+    function handleTouchStart(evt) {                                         
+        xDown = getTouches(evt)[0].clientX;                                      
+        yDown = getTouches(evt)[0].clientY;                                      
+    }
+
+    function handleTouchMove(evt) {
+        if ( ! xDown || ! yDown ) {
+            return;
+        }
+
+        var xUp = evt.touches[0].clientX;                                    
+        var yUp = evt.touches[0].clientY;
+
+        var xDiff = xDown - xUp;
+        var yDiff = yDown - yUp;
+
+        if ( Math.abs( xDiff ) > Math.abs( yDiff ) ) {/*most significant*/
+            if ( xDiff > 0 ) {
+                /* left swipe */
+                alert('left swipe:' + xDiff);
+                //Run the browser forward
+                window.history.forward();
+            } else {
+                /* right swipe */
+                //alert('right swipe:' + xDiff);
+                //Run the browser back
+                window.history.back();
+            }                       
+        } else {
+            if ( yDiff > 0 ) {
+                /* up swipe */ 
+            } else { 
+                /* down swipe */
+            }                                                                 
+        }
+        /* reset values */
+        xDown = null;
+        yDown = null;                                             
+    }
+
+    //Print a modal about of our sale
+    function ReturnAutoSaleModal(title,image,websiteID) {
+        bootbox.dialog({
+            title: title,
+            message: ReturnAutoSaleModal_action(image,websiteID),
+            backdrop: true,
+            closeButton: true,
+            onEscape: true,
+            blurBackground: '.main-container',
+            className: 'bootbox_autoSale_promoteModal'
+        });
+    }
+
+    //Print a modal about of our sale (GET content HTML)
+    function ReturnAutoSaleModal_action(image,websiteID) {
+        var bootMessage = '<div class="message">';
+            bootMessage += '<div class="row">';
+                if (image!='') {
+                    bootMessage += '<div class="col-xs-12">';
+                        bootMessage += '<a href="/manager/upgrade/index.php?w='+websiteID+'"><img src="'+image+'" style="width: auto;max-width: 100%;height: auto;"></a>';
+                    bootMessage += '</div>';
+                } else {
+                    bootMessage += '<div class="col-xs-12 col-sm-7">';
+                        bootMessage += '<span class="unique">' + "Lorsque vous passez \u00e0 la version premium, vous profiterez de ces fonctionnalit\u00e9s!" + '</span><br/>';
+                        bootMessage += '<ul class="upgrade_list">';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Connectez votre domaine personnalis\u00e9" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Enlever le tag flottant \u00ab\u00a0Propuls\u00e9 par SITE123\u00a0\u00bb" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Ajouter les sous-cat\u00e9gories au menu de navigation" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Ajoutez plus de langues" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Obtenez plus de commandes sur votre magasin" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Ajouter des couleurs personnalis\u00e9es" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Fonctions avanc\u00e9es de l'e-commerce" + '</li>';
+                            bootMessage += '<li><i class="fa fa-star"></i>&nbsp;' + "Et plus..." + '</li>';
+                        bootMessage += '</ul>';
+                    bootMessage += '</div>';
+                    bootMessage += '<div class="col-xs-12 col-sm-5" style="display:flex;justify-content:center;align-items:center;">';
+                        bootMessage += '<div style="margin:20px 0;padding: 20px;border: 3px dotted;text-align:center;background-color: #fff;font-size: 20px;font-weight: bold;">' + "50% DE R\u00c9DUCTION" + '</div>';
+                    bootMessage += '</div>';
+                }
+            bootMessage += '</div>';
+            bootMessage += '<div style="text-align:center;">';
+                bootMessage += '<a class="btn btn-lg btn-primary" style="margin-top: 20px;" href="/manager/upgrade/index.php?w='+websiteID+'">' + "Mettez \u00e0 niveau maintenant!" + '</a>';
+            bootMessage += '</div>';
+        bootMessage += '</div>';
+
+        return bootMessage;
+    }
+</script>
+
+<!-- Library -->
+<script src="//cdn-cms-s.f-static.net/versions/2/wizard/js/libraryV_beta_V4.js?v=n6400" crossorigin="anonymous"></script>
+
+<script>
+	//We use this to know when a user become an active so we can stop warning functions like websiteNotifications.php
+	var userActive_timeoutTime      = 60000;
+	var userActive_timeoutTimer     = setTimeout(userActive_ShowTimeOutWarning, userActive_timeoutTime);
+	var userActive_isActive         = true;
+	var userActive_ForceWebsiteNotifications     = setTimeout(userActive_ForceWebsiteNotifications, 300000);
+
+    var versionNUM = '2';
+    var websiteID = '3377810';
+    var packageNUM = '1';
+
+	$(function() {
+
+		// We set an interval to check if the user has new notifications
+		setInterval(getDashboardnotifications,30000);
+
+		// set ignore package changed message flag in global variable
+		window.ignorePackageChangedMessage = false
+
+        // Library Initialize
+        Library.init({
+            translations: {
+                imageLibrary: translations.library_imageLibrary,
+                close: translations.library_close
+        }});
+
+        mixPanelEvent(false,"Enter dashboard page");
+
+        		
+
+		mixPanelEvent(false,"Enter dashboard page");
+
+		//Set iframe height
+		//$('.dashMain .left,.dashMain .right').css('height',$(window).height()-$('#main-interface-header').height());
+
+		$("[data-rel=tooltip]").tooltip('enable');
+
+		/**
+		 * jQuery Countdown Initialize
+		 * Documentations: http://hilios.github.io/jQuery.countdown/
+		 */
+		$(".saleExpiry").countdown(ConvertUtcToLocalTime($(".saleExpiry").html())).on('update.countdown', function(event) {
+			var format = '%H:%M:%S';
+            if(event.offset.totalDays == 1) {
+                format = '%-d '+translations.day+' ' + format;
+            }
+            if(event.offset.totalDays > 1) {
+                format = '%-d '+translations.days+' ' + format;
+            }
+            if(event.offset.weeks == 1) {
+                format = '%-w '+translations.week+' ' + format;
+            }
+            if(event.offset.weeks > 1) {
+                format = '%-w '+translations.weeks+' ' + format;
+            }
+			$(this).html(event.strftime(format));
+		})
+		.on('finish.countdown', function(event) {
+			$(this).html(translations.ThisOfferExpire).parent().addClass('disabled');
+		});
+
+		//Domain Settings
+        $('#domainWindow').on('show.bs.modal', function (event) {
+
+            var button          = $(event.relatedTarget);       // Button that triggered the modal
+            var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+            var kind            = button.data('kind');          // Extract info from data-* attributes
+
+            var modal = $(this);
+
+            if (kind=='unique') {
+                modal.find('.modal-body').html('<iframe id="domainSettings" src="/manager/domain/domain.php?w='+websiteID+'" style="width:100%;height:calc(100vh - 150px);margin:0;padding:0;border:none;"></iframe>');
+            }
+            if (kind=='sub') {
+                modal.find('.modal-body').html('<iframe id="domainSettings" src="/manager/domain/sub-domain.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+            }
+        });
+        $('#domainWindow').on('hide.bs.modal', function (event) {
+            location.reload();
+        });
+
+
+		//Transfer Website
+		$('#transferWebsite').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="transferWebsiteIframe" src="/manager/transfer/transfer.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+
+		}).on('hide.bs.modal', function (event) {
+
+			//Get the preview iframe
+			var $frame = $('#transferWebsiteIframe').contents();
+
+			//Reload the page in case the transferred complete
+			if ( $frame.find('#transferredComplete').length !== 0 ) {
+				location.reload();
+			}
+		});
+
+		ActiveManageActionLinks();
+
+		//Active Construction
+		$('#sslWindow').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="sslSettings" src="/manager/domain/ssl.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		//Active Construction
+		$('#moveToTeam').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="constructionSettings" src="/manager/agency/moveTo.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		//Active Website Password
+		$('#websitePasswordWindow').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="websitePasswordSettings" src="/manager/websitePassword/websitePassword.php?w='+websiteID+'" style="width:100%;height:calc(100vh - 150px);margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		//Website 301 Redirects
+		$('#websiteRedirectsWindow').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+			var version         = button.data('version');       // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="websiteRedirectsSettings" src="/versions/'+version+'/wizard/redirects/index.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		// Website Contributors
+		$('#contributorsWindow').on('show.bs.modal', function (event) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="contributorsSettings" src="/manager/contributors/index.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		// Redirect Domain Settings
+		$('#redirectDomainWindow').on('show.bs.modal', function ( event ) {
+
+			var button          = $(event.relatedTarget);       // Button that triggered the modal
+			var websiteID       = button.data('website-id');    // Extract info from data-* attributes
+			var version         = button.data('version');       // Extract info from data-* attributes
+
+			var modal = $(this);
+
+			modal.find('.modal-body').html('<iframe id="redirectDomainSettings" src="/versions/'+version+'/wizard/redirectDomains/index.php?w='+websiteID+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		// Mailboxes
+		$('#mailboxesManage').on('show.bs.modal', function ( event ) {
+			// get objects
+			var modal = $(this);
+			var src = '/manager/upgrade/orderSystem/initialize.php?websiteID=-1&pathTXT=' + encodeURIComponent('/account/email/emailList.asp');
+			// set the modal content
+			modal.find('.modal-body').html('<iframe id="redirectDomainSettings" src="'+src+'" style="width:100%;height:500px;margin:0;padding:0;border:none;"></iframe>');
+		});
+
+		// Make the sale banner click-able
+		$('.sale-banner-container').click(function() {
+			location.href = $(this).find('a.btn').attr('href');
+		});
+
+		// add gold label
+        ProFeature_addLabel({
+            'websiteID': '3377810',
+            'packageNUM': '1',
+            'limitedToPackageNUM' : '3',
+            'toolType': 'statistics',
+            '$element': $('.website-statistics-tool'),
+            'text': "Pro"        });
+
+		// Get Upgrade Popup settings
+		var upgradeFeaturesManagerSettings = {"websiteID":"3377810","packageNUM":"1","proFeatures":{"default":{"place":"1","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Mettre le pack \u00e0 niveau","icon":""},"content":{"logo":"","title":"Mettre le pack \u00e0 niveau","subTitle":"","explanation":{"bullets":["Connectez votre domaine personnalis\u00e9","Retirer le flottant","Domaine gratuit (abonnement annuel)","Multi-langue","Fonctions avanc\u00e9es de l'e-commerce","Et beaucoup plus!"],"mediaType":"image","image":"","video":{"src":"","poster":""}}}},"languagesManager":{"place":"3","limitedToPackageNUM":"3","packageName":"Advanced","sideMenu":{"title":"Gestionnaire de langues","icon":""},"content":{"logo":"","title":"Gestionnaire de langues","subTitle":"Le gestionnaire de langue est un excellent outil pour traduire automatiquement votre site Web en langues suppl\u00e9mentaires et pour afficher d'autres langues dans l'en-t\u00eate du site.","explanation":{"bullets":["Traduction automatique des langues","Traduction manuelle de la langue","Drapeau unique pour chaque langue","Nom d'affichage unique"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daee88487ca8.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82bf29768e.mp4","poster":""}}}},"uniqueDomain":{"place":"2","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Domaine Unique","icon":""},"content":{"logo":"","title":"Domaine Unique","subTitle":"Un domaine unique est une adresse sp\u00e9ciale sur Internet o\u00f9 se trouve votre site Web. SITE123 vous permet d'acheter des domaines uniques, de les connecter \u00e0 votre site et fournit \u00e9galement un domaine unique gratuit pendant 12 mois \u00e0 l'achat de tout forfait annuel.","explanation":{"bullets":["Un look plus professionnel pour votre site web","URL du site Web facile \u00e0 m\u00e9moriser","+200 TLD","Apportez votre propre nom de domaine"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db1a0f243d1c.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82d3406bd4.mp4","poster":""}}}},"customColors":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Couleurs Personnalis\u00e9es","icon":""},"content":{"logo":"","title":"Couleurs Personnalis\u00e9es","subTitle":"Nous fournissons un outil couleur personnalis\u00e9 qui permet un haut niveau de personnalisation pour les couleurs de toutes sortes de fonctionnalit\u00e9s sur votre site Web.","explanation":{"bullets":["Couleurs du menu","Couleurs de la page","Texte de bas de page et couleurs d'arri\u00e8re-plan"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daf0771449d6.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c01adb7c.mp4","poster":""}}}},"fullWebsiteStructureDesign":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Structure du Site","icon":""},"content":{"logo":"","title":"Structure de Site Avanc\u00e9e","subTitle":"SITE123 fournit \u00e0 ses clients une structure de site Web avanc\u00e9e. Le syst\u00e8me est con\u00e7u pour permettre aux clients de choisir, tout en maintenant des sites Web fonctionnels et attrayants.","explanation":{"bullets":["Mises en page du site","Param\u00e8tres de conception du menu","Dispositions de Pied de Page","Dessins de boutons","Taille de la Typographie"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daeff316590e.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c0fb6159.mp4","poster":""}}}},"advancedStatistics":{"place":"9999","limitedToPackageNUM":"4","packageName":"Professional","sideMenu":{"title":"Statistiques avanc\u00e9es","icon":""},"content":{"logo":"","title":"Statistiques avanc\u00e9es","subTitle":"L'utilisation de statistiques avanc\u00e9es est devenue essentielle pour surveiller le trafic Internet. Les outils de statistiques avanc\u00e9s de SITE123 permettent de comprendre le trafic Web pour aider les utilisateurs \u00e0 augmenter le flux de trafic sur leur site Web.","explanation":{"bullets":["Trafic du site","Recherche de visiteurs","Informations sur l'appareil du visiteur","Dur\u00e9e moyenne de la visite","Pages les plus populaires","Sources sociales","Lieu de visite"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daf034c35646.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c2073e92.mp4","poster":""}}}},"advancedSEOTools":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Outils de R\u00e9f\u00e9rencement","icon":""},"content":{"logo":"","title":"Outils de r\u00e9f\u00e9rencement avanc\u00e9s","subTitle":"SITE123 fournit des outils de r\u00e9f\u00e9rencement avanc\u00e9s qui permettent d\u2019accro\u00eetre consid\u00e9rablement le trafic Web sur votre site Web.","explanation":{"bullets":["Titre Meta Tags","Description Meta Tags","URL de la page","Mots-cl\u00e9s Meta Tags","Image Meta Tags"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daf060746e4d.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c32bee5f.mp4","poster":""}}}},"eCommerceTools":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Outils de eCommerce","icon":""},"content":{"logo":"","title":"Outils de eCommerce","subTitle":"De puissants outils de commerce \u00e9lectronique facilitent la vente de biens et de services avec SITE123. De multiples fonctionnalit\u00e9s permettent une personnalisation \u00e9lev\u00e9e tout en conservant un design physique attrayant.","explanation":{"bullets":["Article FAQ","Liste de souhaits","Modes de paiement en ligne","Articles Avis","Coupons"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daf009cb2782.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db83234e2e16.mp4","poster":""}}}},"plugins":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Plugins","icon":""},"content":{"logo":"","title":"Plugins","subTitle":"SITE123 fournit des dizaines de plug-ins tiers qui peuvent \u00eatre int\u00e9gr\u00e9s rapidement et efficacement \u00e0 votre site Web pour \u00e9tendre ses capacit\u00e9s.","explanation":{"bullets":["Google Analytics","Outils Google pour les webmasters","Gestionnaire de balises Google","Facebook Pixel","Addthis","+50 plugins suppl\u00e9mentaires"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daef65d1cab5.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c4c97e58.mp4","poster":""}}}},"advancedMobileDesign":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Options de l'application mobile","icon":""},"content":{"logo":"","title":"Options de l'application mobile","subTitle":"L'activation de la fen\u00eatre pop-up d'installation des visiteurs avertira vos clients qu'ils peuvent installer votre site Web comme application sur leur appareil mobile.","explanation":{"bullets":["Exp\u00e9rience am\u00e9lior\u00e9e sur les appareils mobiles","Couleur de l'\u00e9cran de chargement personnalis\u00e9","Ic\u00f4ne d'application unique"],"mediaType":"image","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db1a726c2ab2.jpg","video":{"src":"","poster":""}}}},"favicon":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Favicon","icon":""},"content":{"logo":"","title":"Favicon","subTitle":"Les petits d\u00e9tails comptent pour beaucoup - Favicon est un petit graphique ou symbole repr\u00e9sentant votre entreprise ou votre marque dans les onglets d'un navigateur Web. SITE123 vous permet de modifier ce favicon comme vous le souhaitez, soit votre propre symbole personnalis\u00e9, soit un choix parmi des centaines que nous fournissons.","explanation":{"bullets":["T\u00e9l\u00e9chargez votre propre Favicon","Fichiers .ICO ou .PNG support\u00e9s"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffbba28345.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db81e7163fd5.mp4","poster":""}}}},"customFormBuilder":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"G\u00e9n\u00e9rateur de formulaire personnalis\u00e9","icon":""},"content":{"logo":"","title":"G\u00e9n\u00e9rateur de formulaire personnalis\u00e9","subTitle":"La page Custom Form Builder permet aux utilisateurs de SITE123 de cr\u00e9er n\u2019importe quel type de formulaire qu\u2019ils pourraient demander. Diff\u00e9rentes entr\u00e9es et modules permettent aux utilisateurs de cr\u00e9er les types de formulaires dont ils ont besoin pour leur site Web.","explanation":{"bullets":["Designs de formulaire uniques","V\u00e9racit\u00e9 illimit\u00e9e des combinaisons d'entr\u00e9es","Recevez facilement les fichiers de vos clients"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffbd6ded9a.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c61ade5a.mp4","poster":""}}}},"backgroundShapes":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Formes de l'arri\u00e8re plan","icon":""},"content":{"logo":"","title":"Formes de l'arri\u00e8re plan","subTitle":"L'utilisation appropri\u00e9e des formes d'arri\u00e8re-plan peut faire appara\u00eetre un site Web et lui donner un aspect diff\u00e9rent de celui d'autres sites. Les s\u00e9parateurs de forme, ainsi que la couleur et la taille personnalis\u00e9es pour les s\u00e9parateurs de forme, sont des outils utiles que les utilisateurs de SITE123 peuvent utiliser pour que leur site se d\u00e9marque.","explanation":{"bullets":["Diviseurs de forme","Couleur et taille du diviseur de forme","Hauteur minimale de la page d'accueil"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffc1b635c5.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db8352be24bd.mp4","poster":""}}}},"moreFonts":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Plus de polices","icon":""},"content":{"logo":"","title":"Plus de polices","subTitle":"Avoir plus d'options de polices est toujours une bonne chose. SITE123 fournit plus de 100 polices de style et de style pour que vous puissiez choisir le style de texte que vous souhaitez sur votre site Web.","explanation":{"bullets":["Polices Google de haute qualit\u00e9!","Polices support\u00e9es par RTL","Plus de 100 polices \u00e9l\u00e9gantes"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffc5dec7ef.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c6f9c282.mp4","poster":""}}}},"homepageFontSettings":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Param\u00e8tres de la page d'accueil","icon":""},"content":{"logo":"","title":"Param\u00e8tres de la page d'accueil","subTitle":"Le style peut compter pour beaucoup lorsque les visiteurs se pr\u00e9sentent sur votre site, et cela inclut certainement du texte. SITE123 fournit des param\u00e8tres de police de page d'accueil qui vous aident \u00e0 faire la bonne impression.","explanation":{"bullets":["Style de Texte et Arri\u00e8re-plan","Animation de texte"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffce283177.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db8351ebf9be.mp4","poster":""}}}},"externalLink":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Lien externe","icon":""},"content":{"logo":"","title":"Lien externe","subTitle":"Le fait de pouvoir relier votre site Web \u00e0 un site Web externe via votre menu est un outil pr\u00e9cieux pour diriger le trafic Web o\u00f9 vous le souhaitez. Avec l'utilisation de l'outil de lien externe, les utilisateurs de SITE123 peuvent le faire!","explanation":{"bullets":["Connectez des sources externes directement au menu de votre site Web"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5daffd0df2810.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c80abe24.mp4","poster":""}}}},"coupons":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Coupons","icon":""},"content":{"logo":"","title":"Coupons","subTitle":"SITE123 fournit de puissants outils de coupons que vous pouvez utiliser pour offrir de bonnes affaires \u00e0 vos clients. Utilisez-les pour augmenter les ventes et attirer plus d'acheteurs potentiels.","explanation":{"bullets":["Cr\u00e9ez des codes de coupon uniques","D\u00e9finir le nombre d'utilisations","Remise en pourcentage ou somme","Demande d'articles ou de cat\u00e9gories sp\u00e9cifiques","Limitation pour des clients sp\u00e9cifiques"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db006b9efa43.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c8e06d5b.mp4","poster":""}}}},"redirectDomains":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Rediriger des domaines","icon":""},"content":{"logo":"","title":"Rediriger des domaines","subTitle":"La redirection de domaines est le moyen d'attribuer plusieurs domaines \u00e0 transf\u00e9rer directement vers votre domaine principal. L'utilisation de cet outil vous permet d'augmenter le trafic Web sur votre site.","explanation":{"bullets":["Connectez autant de domaines que vous le souhaitez \u00e0 votre domaine principal","Rendez votre site facile \u00e0 trouver avec diff\u00e9rentes extensions"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db1a5e4ae8d0.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82c9c13d21.mp4","poster":""}}}},"menuActionButtons":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Boutons d'action","icon":""},"content":{"logo":"","title":"Boutons d'action","subTitle":"Un moyen simple de faire ressortir un bouton consiste \u00e0 le mettre sur l'en-t\u00eate de votre site Web. Cela peut \u00eatre fait facilement \u00e0 l'aide de l'outil Boutons Actions.","explanation":{"bullets":["Un moyen simple d'attirer l'attention sur l'en-t\u00eate de votre site Web","Boutons au design \u00e9pur\u00e9 pour se d\u00e9marquer","\u00c9tendre les fonctionnalit\u00e9s de votre en-t\u00eate de site Web"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db005b339b72.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82ca800edb.mp4","poster":""}}}},"websiteAccessMembersOnly":{"place":"9999","limitedToPackageNUM":"2","packageName":"Basic","sideMenu":{"title":"Membres","icon":""},"content":{"logo":"","title":"Membres et membres confirm\u00e9s","subTitle":"Il est important de contr\u00f4ler l'acc\u00e8s au site Web, surtout lorsque vous voulez offrir des services aux membres ou aux membres confirm\u00e9s seulement. SITE123 vous donne les outils n\u00e9cessaires pour g\u00e9rer les utilisateurs qui s'inscrivent \u00e0 votre site Web.","explanation":{"bullets":["Cr\u00e9er des titres et des messages personnalis\u00e9s pour l'utilisateur","Cr\u00e9er des formulaires d'inscription personnalis\u00e9s","Messages personnalis\u00e9s apr\u00e8s l'enregistrement"],"mediaType":"video","image":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db00d0001f83.gif","video":{"src":"https:\/\/cdn-cms.f-static.com\/admin\/websitesPluginsManager\/normal_5db82cb52df5d.mp4","poster":""}}}}}};
+		// add the page for the flag of upgrade reason
+		upgradeFeaturesManagerSettings.page = 'dashboard';
+		// initialize the upgrade features manager
+		upgradeFeaturesManager.init(upgradeFeaturesManagerSettings);
+		// overwrite the old upgrade flow with the new one
+		$('.website-statistics-tool[data-target="#upgradePackage"]').on('click', function( event ) {
+			// don't run the original bootstrap event of the upgrade popup
+			event.stopPropagation();
+			// show the upgrade popup from the new upgrade handler
+			upgradeFeaturesManager.show('advancedStatistics');
+		});
+		$('.languages-manager-act-btn[data-target="#upgradePackage"]').on('click', function( event ) {
+			// don't run the original bootstrap event of the upgrade popup
+			event.stopPropagation();
+			// show the upgrade popup from the new upgrade handler
+			upgradeFeaturesManager.show('languagesManager');
+		});
+				// add pro label to `Redirect Domains`
+		ProFeature_addLabel({
+			'websiteID': '3377810',
+			'packageNUM': '1',
+			'limitedToPackageNUM' : '1',
+			'toolType': 'setUniqueDomain',
+			'$element': $('#redirectDomains'),
+			'text': "Pro"		});
+		// overwrite the old upgrade flow with the new one
+		$('#redirectDomains').on('click', function( event ) {
+			// don't run the original bootstrap event of the upgrade popup
+			event.stopPropagation();
+			// show the upgrade popup from the new upgrade handler
+			upgradeFeaturesManager.show('redirectDomains');
+		});
+		// add pro label to `set unique domain`
+		ProFeature_addLabel({
+			'websiteID': '3377810',
+			'packageNUM': '1',
+			'limitedToPackageNUM' : '1',
+			'toolType': 'setUniqueDomain',
+			'$element': $('#setUniqueDomain'),
+			'text': "Pro"		});
+		// overwrite the old upgrade flow with the new one
+		$('#setUniqueDomain').on('click', function( event ) {
+			// don't run the original bootstrap event of the upgrade popup
+			event.stopPropagation();
+			// show the upgrade popup from the new upgrade handler
+			upgradeFeaturesManager.show('uniqueDomain');
+		});
+		
+		// add gold label
+        ProFeature_addLabel({
+            'websiteID': '3377810',
+            'packageNUM': '1',
+            'limitedToPackageNUM' : '2',
+            'toolType': 'languages',
+            '$element': $('.languages-manager-act-btn'),
+            'text': "Pro"        });
+        // initialize access blocked message
+        ActiveAccessBlockedMessage();
+
+        $('body').on('mousedown keydown touchstart', function(event) {
+	        //If the user active was FALSE and then become TRUE we run the function right away
+	        if (userActive_isActive == false) {
+	            getDashboardnotifications();
+	        }
+
+	        //Active the user
+	        userActive_isActive = true;
+	        clearTimeout(userActive_timeoutTimer);
+
+	        //Start counting again
+	        userActive_timeoutTimer = setTimeout(userActive_ShowTimeOutWarning, userActive_timeoutTime);
+    	});
+	});
+
+	function ActiveManageActionLinks() {
+
+		//Delete website
+		$(".confirm-website-remove").on('click', function() {
+
+			var $this = $(this);
+
+			bootbox.confirm({
+				message: translations.deleteWebsiteConfirmMsg.replace('{{websiteName}}',$(this).data("website-name")),
+				buttons: {
+					confirm: {
+						label: "OK",
+						className: 'btn-danger btn-sm'
+					},
+					cancel: {
+						label: "Annuler",
+						className: 'btn-sm'
+					}
+				},
+				callback: function(result) {
+					if(result) {
+						location.href = $this.data("href");
+					}
+				}
+			});
+		});
+
+		//Restore website
+		$(".confirm-website-restore").on('click', function() {
+
+			var $this = $(this);
+
+			bootbox.confirm({
+				message: translations.restoreWebsiteConfirmMsg.replace('{{websiteName}}',$(this).data("website-name")),
+				buttons: {
+					confirm: {
+						label: "OK",
+						className: 'btn-danger btn-sm'
+					},
+					cancel: {
+						label: "Annuler",
+						className: 'btn-sm'
+					}
+				},
+				callback: function(result) {
+					if(result) {
+						location.href = $this.data("href");
+					}
+				}
+			});
+		});
+
+		//Duplicate website
+		$(".confirm-website-duplicate").on('click', function() {
+
+			var $this = $(this);
+
+			bootbox.confirm({
+				message: translations.duplicateWebsiteConfirmMsg.replace('{{websiteName}}',$this.data("website-name")),
+				buttons: {
+					confirm: {
+						label: "OK",
+						className: 'btn-danger btn-sm'
+					},
+					cancel: {
+						label: "Annuler",
+						className: 'btn-sm'
+					}
+				},
+				callback: function(result) {
+					if(result) {
+						DuplicateWebsite($this.data("website-id"),$this.data("version"),$this.data("website-name"));
+					}
+				}
+			});
+		});
+
+		//Reset website
+		$(".confirm-website-reset").on('click', function() {
+
+			var $this = $(this);
+
+			//Get website ID
+			var websiteID = $this.data('website-id');
+			var version = $this.data('version');
+
+			bootbox.confirm({
+				title: "\u00cates-vous certain de vouloir r\u00e9initialiser\u00a0?",
+				message: "\"R\u00e9initialiser\" changera vos modifications \u00e0 la derni\u00e8re version publi\u00e9e.",
+				buttons: {
+					confirm: {
+						label: "OK",
+						className: 'btn-danger',
+					},
+					cancel: {
+						label: "Annuler",
+						className: '',
+					}
+				},
+				callback: function(result) {
+
+					if (result==true) {
+
+						//Make the reset
+						if( result ) {
+							$.ajax({
+								type: "POST",
+								url: "/versions/"+version+"/wizard/reset.php",
+								data: 'w='+websiteID+'', // serializes the form's elements.
+								success: function(data) {
+									location.reload();
+								}
+							});
+						}
+					}
+				}
+			});
+		});
+
+		/**
+		 * Move To Expert - Experts customers can convert every website under
+		 * there account to be under there expert account.
+		 */
+		$(".confirm-move-to-expert").on('click', function() {
+			// get objects
+			var $this = $(this);
+			var websiteID = $this.data('website-id');
+			var package = $this.data('package');
+			var partnerType = $this.data('partnerType');
+			var msg = $this.data('msg');
+			// security - an expert can't connect a paid website into his account
+			if ( package != '1' ) {
+				if ( msg == 'disconnect' ) {
+					bootbox.alert("Site web payant - D\u00e9sol\u00e9, vous ne pouvez pas d\u00e9connecter un site web payant de votre compte Expert.");
+				} else {
+					bootbox.alert("Site Web payant - D\u00e9sol\u00e9, vous ne pouvez pas connecter un site Web payant \u00e0 votre compte expert.");
+				}
+				return;
+			}
+			// check if the website is already connected to an expert account
+			if ( partnerType == 'expert' ) {
+				// expert disconnect user confirmations
+				bootbox.confirm({
+					title: "Confirmation de la D\u00e9connexion de l'Expert",
+					message: "\u00cates-vous s\u00fbr de vouloir d\u00e9connecter ce site Web de votre compte Expert ?",
+					buttons: {
+						confirm: {
+							label: "OK",
+							className: 'btn-primary',
+						},
+						cancel: {
+							label: "Annuler",
+							className: '',
+						}
+					},
+					callback: function( confirm ) {
+						// exit - the user didn't confirm
+						if ( !confirm ) return;
+						// connect the website to the user expert account
+						$.post('/versions/2/wizard/expert_disconnect.php', {
+							w: websiteID,
+						}).done(function( response ) {
+							if ( response === 'Success' ) {
+								topWindow.location.reload();
+							} else {
+								bootbox.alert("\u00c9chec de la d\u00e9connexion de l'expert - Le syst\u00e8me n'a pas r\u00e9ussi \u00e0 d\u00e9connecter le site Web de votre compte expert. Veuillez contacter notre \u00e9quipe de support.");
+							}
+						});
+					}
+				});
+			} else {
+				// expert connect user confirmations
+				bootbox.confirm({
+					title: "Connexion d'Expert Confirm\u00e9e",
+					message: "\u00cates-vous s\u00fbr de vouloir connecter ce site Web \u00e0 votre compte Expert ?",
+					buttons: {
+						confirm: {
+							label: "OK",
+							className: 'btn-primary',
+						},
+						cancel: {
+							label: "Annuler",
+							className: '',
+						}
+					},
+					callback: function( confirm ) {
+						// exit - the user didn't confirm
+						if ( !confirm ) return;
+						// connect the website to the user expert account
+						$.post('/versions/2/wizard/expert_connect.php', {
+							w: websiteID,
+						}).done(function( response ) {
+							if ( response === 'Success' ) {
+								topWindow.location.reload();
+							} else {
+								bootbox.alert("\u00c9chec de la connexion expert - Le syst\u00e8me n'a pas r\u00e9ussi \u00e0 connecter le site Web \u00e0 votre compte expert. Veuillez contacter notre \u00e9quipe de support.");
+							}
+						});
+					}
+				});
+			}
+		});
+	}
+
+	function DuplicateWebsite(websiteID,versionNUM,websiteName) {
+
+		//Get instance of progressbar object
+		var progressbar = new Progressbar("Votre site web se duplique, veuillez patienter.");
+
+		//Start the progress bar
+		progressbar.start(250);
+
+		//Create a new website via Ajax
+		var request = $.post(
+			'/versions/'+versionNUM+'/wizard/duplicateWebsite.php', {
+			websiteID : websiteID,
+            name : websiteName
+		}).done(function( response ) {
+			response                = jQuery.parseJSON(response);
+			var newWebsiteID        = response.newWebsiteID;
+			var websiteSubdomain    = response.websiteSubdomain;
+
+			if (jQuery.isNumeric(newWebsiteID)) {
+				mixPanelEvent(false,"Duplicate Website");
+				progressbar.finish(function() {
+					window.top.location.href = '/manager/wizard.php?w=' + newWebsiteID + '&from=dash&new=1';
+				});
+			} else {
+				progressbar.stop();
+			}
+		});
+	}
+
+	function ActiveAccessBlockedMessage() {
+		// display access blocked message
+		$('.access-blocked-message').on('click', function() {
+			// get object
+			$this = $(this);
+			msg = $this.data('access-blocked-msg');
+			// initialize access blocked message
+			var html = '<div style="margin-top:30px;"><b>' + msg + '</b></div>';
+			// initialize sweet alert
+			swal({
+				icon: 'error',
+				content: $(html).get(0),
+				buttons: "OK"			});
+		});
+	}
+	// Dashboard notification will notify the user on changes in the dashboard 
+	function getDashboardnotifications() {
+
+		// If the user is not active in the wizard right now we not running this AJAX
+        if (userActive_isActive == false) return;
+
+        // Count the notification number via Ajax
+        $.post( '/versions/'+versionNUM+'/wizard/include/websiteNotificationsV_beta_V4.php', {
+            w: websiteID,
+            type: 'total'
+        }).done( function( data ) {
+
+            // prevent JS error in case the JSON didn't returned
+            try { 
+                data = JSON.parse(data);
+            } catch (e) {}
+
+            if ( !data || typeof data !== "object" ) return;
+            // check if the user package changed if it did will alert him to refresh
+            if( data.packageNUM != packageNUM && !window.ignorePackageChangedMessage && !isBsModalOpen('#packageChangedModal') ) {
+                var packageChangedModal = bootbox.confirm({
+                    title: '<span><b>'+translations.packageChangeTitle+'</b></span>',
+                    message: translations.packageChangeMessageDashboard,
+                    buttons: {
+                        confirm: {
+                            label: translations.yes,
+                            className: 'btn-success'
+                        },
+                        cancel: {
+                            label: translations.no,
+                            className: 'btn-default'
+                        }
+                    },
+                    callback: function( result ) {
+                        // refreshing the page 
+                        if ( result == true ) {
+                            window.location.reload();
+                        // update flag ignore package changed message because the user click on No button
+                        } else if ( result == false ) {
+                            window.ignorePackageChangedMessage = true;
+                        }
+                    }
+                });
+                // add ID on the package changed modal
+                packageChangedModal.on("shown.bs.modal", function() {
+                    packageChangedModal.attr("id", "packageChangedModal");
+                });
+            }
+        });
+    }
+    function userActive_ShowTimeOutWarning() {
+    	userActive_isActive = false;
+	}
+	//We force the website notification every 5min so if the user back to is screen he will see an update
+	function userActive_ForceWebsiteNotifications() {
+    	userActive_isActive = true;
+    	getDashboardnotifications();
+	}	 
+
+</script>
+
+
+<script>
+//https://developers.intercom.com/docs/intercom-javascript#section-intercomonshow
+try {
+    window.intercomSettings = {
+        app_id: "jokji8l9",
+        user_id: "4397695",
+        name: "SAMY", // Full name
+        email: "nsammy@hotmail.fr", // Email address
+        user_hash: 'af7c861b48c92cc6272715f6ad60a494a6f8c5f70886672677c79e440f4ffb8a', // HMAC using SHA-256
+        lastVisitedUrl: "https:\/\/app.site123.com\/versions\/2\/wizard\/dashboard.php?w=3377810",
+        p_t: "pricingE",
+                    ut: 10,
+                language_override: "fr" // What the interface language of the user?
+    };
+
+    (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/jokji8l9';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+}
+catch(err) {
+    console.log('intercom error');
+}
+
+//Hide intercom before we show it so we can manage it
+Intercom('hide');
+
+//Active update push so if we send a customer a message from Intercom he will get it without the need to refresh to reload the page
+//setInterval(updateIntercomPushMessages,15000);
+
+Intercom('onUnreadCountChange', function(unreadCount) {
+    //Add a class to the button so when the user will click on it we will open the Intercom window
+    if (unreadCount>0) {
+        $('.help247window').addClass('forceIntercom');
+    }
+});
+
+//We make sure that when Intercom show we add CLOSE button to the interface
+Intercom('onShow', function() {   
+    $('.help247window').hide(function() {
+        $('.help247close').show(100); 
+    });
+    //FIX RTL problem
+    FixIntercomRTL();
+    //Hide our help center popup
+    $('.helpBOX-popup').hide(100);
+    //Remove the force class if the user open it from a message
+    $('.help247window').removeClass('forceIntercom');
+});
+
+function updateIntercomPushMessages() {
+    Intercom('update');
+}
+
+Intercom('onHide', function() {   
+    CloseAllHelpCenterWindows();
+});
+</script>
+
+
+<script>
+var showChatForUser = true;
+jQuery(function($) {
+    $('.help247window').click(function() {
+
+        if (showChatForUser==true) {
+
+            if (typeof Intercom !== 'undefined') {
+                Intercom('show');
+            }
+        
+        } else {
+
+            //If Intercom send us message we first show Intercom window and not our message
+            if ($('.forceIntercom').length>0) {
+                if (typeof Intercom !== 'undefined') {
+                    Intercom('showMessages');
+                }
+            } else {
+                //We show our support window
+                $('.helpBOX-popup').show(100);
+            }  
+            $('.help247window').hide(function() {
+                $('.help247close').show(100); 
+            });  
+
+        }
+    });
+    $('.help247close').click(function() {
+        if (typeof Intercom !== 'undefined') {
+            Intercom('hide');
+        }
+        CloseAllHelpCenterWindows();
+    });
+    $('.intercomButton').click(function() {
+        if (typeof Intercom !== 'undefined') {
+            Intercom('show');
+        }
+    });
+
+    // Chat upgrade alert
+    $('.popScoreFreeSupport').click(function() {
+        // secure objects
+        if ( typeof topWindow == 'undefined' || typeof topWindow.bootbox == 'undefined' ) return;
+        // wizard only - disable the leave pop-up alert message
+        topWindow.disableLeavePopup = true;
+        // alert the user about that he need to upgrade to get a chat support
+        topWindow.bootbox.confirm({
+            title: "Mettez votre site \u00e0 niveau pour obtenir le support de chat en direct!",
+            message: "Vous pouvez continuer \u00e0 utiliser votre site Web gratuitement, mais vous devez effectuer une mise \u00e0 niveau pour profiter du service de chat gratuit en direct pour toujours.",
+            buttons: {
+                confirm: {
+                    label: "Mettez \u00e0 niveau maintenant!",
+                    className: 'btn-success'
+                },
+                cancel: {
+                    label: "Peut-\u00eatre plus tard",
+                    className: 'btn-link'
+                }
+            },
+            callback: function( confirm ) {
+                // check if the user confirm clicks
+                if ( confirm ) {
+                                        window.location.href = "/manager/upgrade/index.php?w=3377810";
+                                    }
+            }
+        });
+    });
+
+});
+
+function FixIntercomRTL() {
+    if ($('html[dir=rtl]').length>0) {
+        setTimeout(function() {
+            $('.intercom-messenger-frame').attr('style','left: 20px !important;right: auto !important;');
+        },50);
+        setTimeout(function() {
+            $('.intercom-messenger-frame').attr('style','left: 20px !important;right: auto !important;');
+        },300);
+    }
+}
+
+function CloseAllHelpCenterWindows() {
+    //Remove the class that force this window
+    $('.help247window').removeClass('forceIntercom');
+    $('.helpBOX-popup').hide(100);
+    $('.help247close').hide(function() {
+        $('.help247window').show(100); 
+    });
+}
+</script>
+
+
+<div class="helpBOX">
+    <a class="help247window" data-track="wizard-chat-button-click">
+                    Besoin d'aide ?            </a>
+    <a class="help247close"><i class="fa fa-close"></i></a>
+</div>
+
+
+<div class="helpBOX-popup">
+    <div>
+        <div class="chat-header">
+            Centre de chat et d'assistance en direct 24/7        </div>
+    </div>
+    <div style="display: flex;flex-direction: row;">
+        <div class="chat" style="width: 50%;">
+            <a class="link intercomButton"></a>
+            <div class="h">
+                                <img src="//cdn-cms-s.f-static.net/files/images/intercomFace1.jpg" style="width:50px;height:50px;">
+                <img src="//cdn-cms-s.f-static.net/files/images/intercomFace2.jpg" style="width:50px;height:50px;">
+                <br/>
+                <img src="//cdn-cms-s.f-static.net/files/images/intercomFace3.jpg" style="width:50px;height:50px;">
+                <img src="//cdn-cms-s.f-static.net/files/images/intercomFace4.jpg" style="width:50px;height:50px;">
+            </div>
+            <div class="f">
+                Discutez avec nous 24 H sur 24 et 7 jours sur 7            </div>
+        </div>
+        <div class="support" style="width: 50%;">
+            <a class="link" href="https://www.site123.com/support" target="_blank"></a>
+            <div class="h">
+                <a href="https://www.site123.com/support" style="color:#1251ba" target="_blank"><img class="youtube" src="//cdn-cms-s.f-static.net/files/images/emails/begin.jpg"></a>
+            </div>
+            <div class="f">
+                Visitez notre centre d'assistance            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
